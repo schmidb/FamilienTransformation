@@ -66,7 +66,7 @@ syntax_highlighting: true # include the css for syntax highlighting
 
 # Build settings
 markdown: kramdown
-theme: jekyll-material-theme
+# theme: jekyll-material-theme
 remote_theme: jameshamann/jekyll-material-theme
 permalink: pretty
 plugins:

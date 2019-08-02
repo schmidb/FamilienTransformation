@@ -19,9 +19,9 @@ title: Von Innen nach Aussen transformieren
 name: Miriam & Markus Schmidberger
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Alles beginnt in unserem Innersten. Für erfolgreiche Transformationen müssen
-  wir den tiefsten Kern finden und dann nach Aussen wandern. Hier teilen wir
-  unsere Innen nach Aussen Transformationswege und begleiten Sie gerne bei
+  Alles beginnt in unserem Innersten. Erfolgreiche Transformationen starten am
+  innersten Zentrum und wandern nach Aussen durch Gefühle, Ängste und Herausforderungen.
+  Hier teilen wir unsere "Innen nach Aussen" Transformationswege und bieten Begleitung bei
   Ihren Prozessen.
 baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
 url: "https://schmidb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,31 +35,39 @@ parallax_image_two: assets/images/butterfly.jpg
 
 
 # Settings for the porfolio section
-portfolio_heading: Unser Transformation Portfolio
+portfolio_heading: Unser Transformations Portfolio
 portfolio_type: cards #cards or carousel
 
 project_button: more #Github
 
-project_one: Das Transformations Netzwerk
-project_one_description: Describe your project!
-project_one_url: /transformation/
+project_one: Das Transformations-Netzwerk
+project_one_description: >-
+  Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht
+  Die Eine Methode die alle Transformationen erfolgreich macht. In unserem Transformations-Netzwerk
+  finden sie viele Kontakte und Tipps für Ihren nächsten Schritt.
+project_one_url: transformation/
+project_one_image: assets/images/desk.jpg
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: Cloud & BigData & Agile Business Transformation
 project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: businessTransformation/
+project_two_image: assets/images/typewriter.jpg
 project_two_icon: photo_camera
 
 project_three: Bewusstes Eltern Sein
 project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: elternSein/
+project_three_image: assets/images/contact2.jpg
 project_three_icon: hotel
 
 project_four: Yoga zur Transformation
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: yogaTransformation
+project_four_image: assets/images/contact4.png
 project_four_icon: restaurant
 
+cookies_banner: none
 cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
 syntax_highlighting: true # include the css for syntax highlighting
 

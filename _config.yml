@@ -29,7 +29,6 @@ url: "https://schmidb.github.io" # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 
-
 parallax_image_one: assets/images/caterpillar.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/butterfly.jpg
 
@@ -66,13 +65,14 @@ syntax_highlighting: true # include the css for syntax highlighting
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-material-theme
+#theme: jekyll-material-theme
 remote_theme: jameshamann/jekyll-material-theme
-permalink: pretty
+permalink: pretty # layout of URL for blog posts
 plugins:
-  - jekyll-feed
+#  - jekyll-feed #rss feed
   - jekyll-assets
   - jekyll-minifier
+
 
 github: [metadata]
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Von Innen nach Aussen"
-image: /assets/images/butterfly.jpg
+image: assets/images/butterfly.jpg
 date:   2019-08-01 21:21:18 +0200
 categories: jekyll update
 ---

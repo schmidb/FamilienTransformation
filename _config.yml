@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   wir den tiefsten Kern finden und dann nach Aussen wandern. Hier teilen wir
   unsere Innen nach Aussen Transformationswege und begleiten Sie gerne bei
   Ihren Prozessen.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://schmidb.github.io/InsideOutTransformation" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
+url: "https://schmidb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

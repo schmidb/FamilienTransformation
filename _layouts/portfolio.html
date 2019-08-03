@@ -11,13 +11,13 @@ layout: default
       <div class="section no-pad-bot">
         <div class="container">
           <br><br>
-          <h3 class="post-title" itemprop="name headline" style="text-align:center">{{ page.title | escape }}</h3>
+          <h3 class="post-title center teal-text text-lighten-2" itemprop="name headline">{{ page.title | escape }}</h3>
         </div>
       </div>
       <div class="parallax" ><img src="{{site.baseurl}}/{{page.image}}" alt="Unsplashed background img 1" ></div>
     </div>
 
-
+<!--
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -26,6 +26,7 @@ layout: default
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
+      -->
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}

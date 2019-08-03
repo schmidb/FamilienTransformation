@@ -29,8 +29,8 @@ url: "https://schmidb.github.io" # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 
-parallax_image_one: assets/images/caterpillar.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/butterfly.jpg
+parallax_image_one: assets/images/caterpillar-medium.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/butterfly-medium.jpg
 
 
 
@@ -43,28 +43,32 @@ project_button: more #Github
 project_one: Das Transformations-Netzwerk
 project_one_description: >-
   Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht
-  Die Eine Methode die alle Transformationen erfolgreich macht. In unserem Transformations-Netzwerk
-  finden sie viele Kontakte und Tipps für Ihren nächsten Schritt.
-project_one_url: transformation/
-project_one_image: assets/images/desk.jpg
+  Die Eine Methode die alle Transformationen erfolgreich macht.<br><br>
+  In unserem Transformations-Netzwerk finden sie viele Kontakte und Tipps für Ihren nächsten Schritt.
+project_one_url: transformationNetzwerk/
+project_one_image: assets/images/play-stone-small.jpg
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
-project_two: Cloud & BigData & Agile Business Transformation
-project_two_description: Describe your project!
+project_two: ABC Business Transformations
+project_two_description: >-
+  Erfolgreiche Transformationen in der Geschäftswelt entwickeln sich auch im
+  innersten der Angestellten und durchlaufen einen Weg bis neuer Business-Wert
+  auf dem Markt erzielt wird.<br><br>
+  Wir bieten begleiten Sie bei Agile & BigData & Cloud Transformationen.
 project_two_url: businessTransformation/
-project_two_image: assets/images/typewriter.jpg
+project_two_image: assets/images/contact4.png
 project_two_icon: photo_camera
 
-project_three: Bewusstes Eltern Sein
+project_three: Human Transformations
 project_three_description: Describe your project!
-project_three_url: elternSein/
-project_three_image: assets/images/contact2.jpg
+project_three_url: humanTransformations/
+project_three_image: assets/images/evolution-small.jpg
 project_three_icon: hotel
 
 project_four: Yoga zur Transformation
 project_four_description: Describe your project!
 project_four_url: yogaTransformation
-project_four_image: assets/images/contact4.png
+project_four_image: assets/images/cat-yoga-mini.jpg
 project_four_icon: restaurant
 
 cookies_banner: none

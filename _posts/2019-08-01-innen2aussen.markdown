@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  "Von Innen nach Aussen"
+title:  "Von Innen nach Aussen - Körperempfindungen fühlen"
 image: assets/images/oasis-small.jpg
 date:   2019-08-01 21:21:18 +0200
 categories: innenAussen
 ---
+Alle Wege der Transformation gehen darüber, dass wir uns immer besser selber kennen lernen. Wir lernen uns kennen durch unsere Körperempfindungen. Diese können unbewusstes wieder sichtbar machen.
 
-ddd
+Veränderungen der Körperempfindung bestimmt das Aussen das Leben.
+
+Dadurch erkennst Du Deine eigene Vollständigkeit
+
+Eine Transformation
+* Schritt für Schritt
+* Keine Eile notwendig
+* Ich als Mensch bin schon vollständig
+
+ToDo Buchempfehlung
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

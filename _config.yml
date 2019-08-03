@@ -62,7 +62,7 @@ project_two_icon: photo_camera
 
 project_three: Human Transformations
 project_three_description: Describe your project!
-project_three_url: humanTransformations/
+project_three_url: humanTransformation/
 project_three_image: assets/images/woman-mini.jpg
 project_three_icon: hotel
 
@@ -74,7 +74,7 @@ project_four_icon: restaurant
 
 project_five: Yoga zur Transformation
 project_five_description: Describe your project!
-project_five_url: yogaTransformation
+project_five_url: yogaTransformation/
 project_five_image: assets/images/cat-yoga-mini.jpg
 project_five_icon: restaurant
 

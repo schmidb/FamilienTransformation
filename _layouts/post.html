@@ -6,7 +6,16 @@ layout: default
     <div class="row" style="padding:10px;">
       <a class="waves-effect waves-light btn white-text darken-2 grey z-depth-4" href="{{site.baseurl}}/#blog"><i class="material-icons">arrow_back</i></a>
     </div>
-    <h3 class="post-title" itemprop="name headline" style="text-align:center">{{ page.title | escape }}</h3>
+
+    <div id="index-banner" class="parallax-container" style="height:200px;">
+      <div class="section no-pad-bot">
+        <div class="container">
+          <br><br>
+          <h3 class="post-title" itemprop="name headline" style="text-align:center">{{ page.title | escape }}</h3>
+        </div>
+      </div>
+      <div class="parallax" ><img src="{{site.baseurl}}/{{page.image}}" alt="Unsplashed background img 1" ></div>
+    </div>
 
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

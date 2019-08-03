@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Human Transformations
+image: assets/images/woman-mini.jpg
 permalink: humanTransformation/
 ---
 Wir bieten euch eine Reihe von Transformationsworkshops. Hier einige Beispiele:

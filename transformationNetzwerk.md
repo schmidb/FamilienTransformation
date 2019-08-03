@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Das Transformations-Netzwerk
-permalink: transformation/
+permalink: transformationNetzwerk/
 ---
 
 test test trans

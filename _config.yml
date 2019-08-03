@@ -43,7 +43,7 @@ project_button: more #Github
 project_one: Das Transformations-Netzwerk
 project_one_description: >-
   Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht
-  Die Eine Methode die alle Transformationen erfolgreich macht.<br><br>
+  "Die Eine Methode" die alle Transformationen erfolgreich macht.<br><br>
   In unserem Transformations-Netzwerk finden sie viele Kontakte und Tipps für Ihren nächsten Schritt.
 project_one_url: transformationNetzwerk/
 project_one_image: assets/images/play-stone-small.jpg
@@ -62,7 +62,7 @@ project_two_icon: photo_camera
 project_three: Human Transformations
 project_three_description: Describe your project!
 project_three_url: humanTransformations/
-project_three_image: assets/images/evolution-small.jpg
+project_three_image: assets/images/evolution-mini.jpg
 project_three_icon: hotel
 
 project_four: Yoga zur Transformation

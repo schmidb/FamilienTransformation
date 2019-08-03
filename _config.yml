@@ -29,7 +29,7 @@ url: "https://schmidb.github.io" # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 
-parallax_image_one: assets/images/caterpillar-small.jpg # These are the images used for the parallax background
+parallax_image_one: assets/images/caterpillar-small_cut.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/butterflies-small.jpg
 parallax_image_three: assets/images/butterfly-small.jpg
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Von Innen nach Aussen"
-image: assets/images/butterfly-small.jpg
+image: assets/images/oasis-small.jpg
 date:   2019-08-01 21:21:18 +0200
 categories: innenAussen
 ---

@@ -103,8 +103,8 @@ languageNames:
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-material-theme
-remote_theme: jameshamann/jekyll-material-theme
+theme: jekyll-material-theme
+#remote_theme: jameshamann/jekyll-material-theme
 permalink: pretty # layout of URL for blog posts
 plugins:
 #  - jekyll-feed #rss feed

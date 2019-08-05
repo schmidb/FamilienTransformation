@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Zentrum und wandern mittels Gefühlen, Ängste und Herausforderungen nach Aussen.
   <br>Wir teilen unsere "Innen nach Aussen" Transformationswege mit Ihnen und bieten
   verschiedenste Begleitung an.
-baseurl: #"/InsideOutTransformation" # the subpath of your site, e.g. /blog
+baseurl: /InsideOutTransformation #"/InsideOutTransformation" # the subpath of your site, e.g. /blog
 url: "https://schmidb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -103,8 +103,8 @@ languageNames:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-material-theme
-#remote_theme: jameshamann/jekyll-material-theme
+#theme: jekyll-material-theme
+remote_theme: jameshamann/jekyll-material-theme
 permalink: pretty # layout of URL for blog posts
 plugins:
 #  - jekyll-feed #rss feed

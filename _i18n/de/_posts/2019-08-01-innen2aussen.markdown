@@ -2,7 +2,7 @@
 layout: post
 title:  "Von Innen nach Aussen - Körperempfindungen fühlen"
 image: assets/images/oasis-small.jpg
-date:   2019-08-01 21:21:18 +0200
+date:   2019-08-01
 ---
 Alle Wege der Transformation gehen darüber, dass wir uns immer besser selber kennen lernen. Wir lernen uns kennen durch unsere Körperempfindungen. Diese können unbewusstes wieder sichtbar machen.
 

@@ -86,8 +86,8 @@ project_five_url: /yogaTransformation/
 project_five_image: /assets/images/cat-yoga-mini.jpg
 project_five_icon: restaurant
 
-cookies_banner: show # none or show
-cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
+cookies_banner: none # none or show - I use my own one
+#cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
 syntax_highlighting: true # include the css for syntax highlighting
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case

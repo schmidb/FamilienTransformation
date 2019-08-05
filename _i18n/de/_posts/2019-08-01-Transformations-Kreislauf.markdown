@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Der Transformations-Kreislauf"
-date:   2019-07-30 21:21:18 +0200
+date:   2019-08-01
 image: assets/images/compost-mini.jpg
 ---
 Der Transformations-Kreislauf den du in jeder Transformation wiederfinden wirst.

@@ -10,8 +10,32 @@
       
       <title>Von Innen nach Aussen transformieren</title>
 
+      <!-- js for cookie message -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
     </head>
+
+
+
     <body>
+
+      <!-- script for cooke message -->
+      <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+      <script>
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#efefef",
+            "text": "#404040"
+          },
+          "button": {
+            "background": "#8ec760",
+            "text": "#ffffff"
+          }
+        },
+        "theme": "classic",
+        "position": "bottom-left"
+      });
+      </script>
 
 
   <div id="home" class="section scrollspy">
@@ -31,8 +55,8 @@
 </div>
 
 
-<div id="cookies" style="display:show">
-  <p style="text-align:left; padding-left:8px"><a value="hide/show" id="check" class="waves-effect waves-light green lighten-1 btn btn-floating pulse" onclick="Materialize.toast('Thanks!', 2000)" ><i class="material-icons">check</i></a></p>
+<div id="cookies" style="display:none">
+  <p style="text-align:left; padding-left:8px"><a value="hide/show" id="check" class="waves-effect waves-light green lighten-1 btn btn-floating pulse" onclick="Materialize.toast('', 2000)" ><i class="material-icons">check</i></a></p>
   
 <!-- Tap Target Structure -->
 <div class="tap-target" data-activates="check">

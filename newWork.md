@@ -1,8 +1,7 @@
 ---
 layout: portfolio
 title: New Work Mentoring
-image: assets/images/grandmother-mini.jpg
+image: /assets/images/grandmother-mini.jpg
 permalink: newWork/
 ---
-
-New Work ist Work-Life & Life Work Transformation
+{% translate_file newWork.md %}

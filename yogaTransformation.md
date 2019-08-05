@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Yoga zur Transformations
-image: assets/images/cat-yoga-mini.jpg
+image: /assets/images/cat-yoga-mini.jpg
 permalink: yogaTransformation/
 ---
-bla
+{% translate_file yogaTransformation.md %}

@@ -23,16 +23,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Zentrum und wandern mittels Gefühlen, Ängste und Herausforderungen nach Aussen.
   <br>Wir teilen unsere "Innen nach Aussen" Transformationswege mit Ihnen und bieten
   verschiedenste Begleitung an.
-baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
+baseurl: #"/InsideOutTransformation" # the subpath of your site, e.g. /blog
 url: "https://schmidb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 
 #background
-parallax_image_one: assets/images/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/butterflies-small.jpg
-parallax_image_three: assets/images/butterfly-small.jpg
+parallax_image_one: /assets/images/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
+parallax_image_two: /assets/images/butterflies-small.jpg
+parallax_image_three: /assets/images/butterfly-small.jpg
 
 
 
@@ -49,7 +49,7 @@ project_one_description: >-
   In unserem Transformations-Netzwerk finden Sie viele Kontakte und Tipps für
   Ihren nächsten Schritt im Transformationskreislauf.
 project_one_url: transformationNetzwerk/
-project_one_image: assets/images/play-stone-small.jpg
+project_one_image: /assets/images/play-stone-small.jpg
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: ABC Business Transformations
@@ -60,7 +60,7 @@ project_two_description: >-
   Wir bieten Konzepte und Prozessbegleitung für Agile & BigData & Cloud (ABC)
   Transformationen.
 project_two_url: businessTransformation/
-project_two_image: assets/images/contact4.png
+project_two_image: /assets/images/contact4.png
 project_two_icon: photo_camera
 
 project_three: Human Transformations
@@ -71,19 +71,19 @@ project_three_description: >-
   Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden
   sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
 project_three_url: humanTransformation/
-project_three_image: assets/images/woman-mini.jpg
+project_three_image: /assets/images/woman-mini.jpg
 project_three_icon: hotel
 
 project_four: New Work Mentoring
 project_four_description: Describe your project!
 project_four_url: newWork
-project_four_image: assets/images/grandmother-mini.jpg
+project_four_image: /assets/images/grandmother-mini.jpg
 project_four_icon: restaurant
 
 project_five: Yoga zur Transformation
 project_five_description: Describe your project!
 project_five_url: yogaTransformation/
-project_five_image: assets/images/cat-yoga-mini.jpg
+project_five_image: /assets/images/cat-yoga-mini.jpg
 project_five_icon: restaurant
 
 cookies_banner: show # none or show
@@ -93,16 +93,24 @@ syntax_highlighting: true # include the css for syntax highlighting
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 google_analytics_tracking_id: UA-145089068-1
 
+# languages
+languages: ["de", "en"]
+exclude_from_localizations: ["assets", "CNAME"]
+#defaultLang: de
+languageNames:
+  de: Deutsch
+  en: English
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-material-theme
-remote_theme: jameshamann/jekyll-material-theme
+theme: jekyll-material-theme
+#remote_theme: jameshamann/jekyll-material-theme
 permalink: pretty # layout of URL for blog posts
 plugins:
 #  - jekyll-feed #rss feed
   - jekyll-assets
   - jekyll-minifier
+  - jekyll-multiple-languages
 
 
 github: [metadata]

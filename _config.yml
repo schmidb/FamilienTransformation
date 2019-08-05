@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Zentrum und wandern mittels Gefühlen, Ängste und Herausforderungen nach Aussen.
   <br>Wir teilen unsere "Innen nach Aussen" Transformationswege mit Ihnen und bieten
   verschiedenste Begleitung an.
-baseurl:  #"/InsideOutTransformation" # the subpath of your site, e.g. /blog
-url: "https://schmidb.github.io/InsideOutTransformation" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
+url: "https://schmidb.github.iox" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -48,7 +48,7 @@ project_one_description: >-
   "Die eine Methode" die alle Transformationen erfolgreich macht.<br><br>
   In unserem Transformations-Netzwerk finden Sie viele Kontakte und Tipps für
   Ihren nächsten Schritt im Transformationskreislauf.
-project_one_url: transformationNetzwerk/
+project_one_url: /transformationNetzwerk/
 project_one_image: /assets/images/play-stone-small.jpg
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
@@ -59,7 +59,7 @@ project_two_description: >-
   neuer Business-Wert auf dem Markt erzielt wird.<br><br>
   Wir bieten Konzepte und Prozessbegleitung für Agile & BigData & Cloud (ABC)
   Transformationen.
-project_two_url: businessTransformation/
+project_two_url: /businessTransformation/
 project_two_image: /assets/images/contact4.png
 project_two_icon: photo_camera
 
@@ -70,19 +70,19 @@ project_three_description: >-
   einem neuen und freien Leben zeigen.<br><br>
   Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden
   sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
-project_three_url: humanTransformation/
+project_three_url: /humanTransformation/
 project_three_image: /assets/images/woman-mini.jpg
 project_three_icon: hotel
 
 project_four: New Work Mentoring
 project_four_description: Describe your project!
-project_four_url: newWork
+project_four_url: /newWork/
 project_four_image: /assets/images/grandmother-mini.jpg
 project_four_icon: restaurant
 
 project_five: Yoga zur Transformation
 project_five_description: Describe your project!
-project_five_url: yogaTransformation/
+project_five_url: /yogaTransformation/
 project_five_image: /assets/images/cat-yoga-mini.jpg
 project_five_icon: restaurant
 

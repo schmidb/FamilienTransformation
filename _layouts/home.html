@@ -5,9 +5,9 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">{{ site.title }}</h1>
+        <h1 class="header center teal-text text-lighten-2">{% t site.title %}</h1>
         <div class="row center">
-          <h5 class="header col s12 text-lighten-2">{{ site.description }}</h5>
+          <h5 class="header col s12 text-lighten-2">{% t site.description %}</h5>
         </div>
         <br><br>
       </div>
@@ -26,7 +26,7 @@
 <div class="container" style="padding:20px;">
   <div id="portfolio" class="section scrollspy">
 
-  <h3 style="text-align:center;">{{site.portfolio_heading}}</h3>
+  <h3 style="text-align:center;">{% t site.portfolio_heading %}</h3>
 
 {% include portfolio_{{site.portfolio_type}}.html %}
 

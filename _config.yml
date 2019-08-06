@@ -15,14 +15,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Von Innen nach Aussen transformieren
+title: global.title
 name: Miriam & Markus Schmidberger
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Alles beginnt in unserem Innersten. Erfolgreiche Transformationen starten im
-  Zentrum und wandern mittels Gefühlen, Ängste und Herausforderungen nach Aussen.
-  <br>Wir teilen unsere "Innen nach Aussen" Transformationswege mit Ihnen und bieten
-  verschiedenste Begleitung an.
+email: markus.schmidberger @ gmail.com
+phone: 0049 151 11143434
+description: global.description
 baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
 url: "https://schmidb.github.iox" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -37,54 +34,9 @@ parallax_image_three: /assets/images/butterfly-small.jpg
 
 
 # Settings for the porfolio section
-portfolio_heading: Unser Transformations Portfolio
+portfolio_heading: pages.portfoliotitle
 portfolio_type: cards #cards or carousel
-
-project_button: mehr #Github
-
-project_one: Das Transformations-Netzwerk
-project_one_description: >-
-  Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht
-  "Die eine Methode" die alle Transformationen erfolgreich macht.<br><br>
-  In unserem Transformations-Netzwerk finden Sie viele Kontakte und Tipps für
-  Ihren nächsten Schritt im Transformationskreislauf.
-project_one_url: /transformationNetzwerk/
-project_one_image: /assets/images/play-stone-small.jpg
-project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
-
-project_two: ABC Business Transformations
-project_two_description: >-
-  Erfolgreiche Transformationen in der Geschäftswelt entwickeln sich auch im
-  innersten der Angestellten und durchlaufen einen vielschichtigen Weg bis
-  neuer Business-Wert auf dem Markt erzielt wird.<br><br>
-  Wir bieten Konzepte und Prozessbegleitung für Agile & BigData & Cloud (ABC)
-  Transformationen.
-project_two_url: /businessTransformation/
-project_two_image: /assets/images/contact4.png
-project_two_icon: photo_camera
-
-project_three: Human Transformations
-project_three_description: >-
-  Sie sind ein wundervolles Individuum. Ihr Transformationsweg wird ihr eigener
-  und spezieller Prozess sein. Ihre innersten Gefühle wollen Ihnen einen Weg zu
-  einem neuen und freien Leben zeigen.<br><br>
-  Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden
-  sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
-project_three_url: /humanTransformation/
-project_three_image: /assets/images/woman-mini.jpg
-project_three_icon: hotel
-
-project_four: New Work Mentoring
-project_four_description: Describe your project!
-project_four_url: /newWork/
-project_four_image: /assets/images/grandmother-mini.jpg
-project_four_icon: restaurant
-
-project_five: Yoga zur Transformation
-project_five_description: Describe your project!
-project_five_url: /yogaTransformation/
-project_five_image: /assets/images/cat-yoga-mini.jpg
-project_five_icon: restaurant
+project_button: pages.more
 
 cookies_banner: none # none or show - I use my own one
 #cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Das sind wir - Miriam & Markus Schmidberger"
 date:   2019-08-01
-image: assets/images/compost-mini.jpg
+image: assets/images/family.jpg
 ---
 
 Auch wir sind wundervolle Individuen. Hier teilen wir unseren Weg und unsere

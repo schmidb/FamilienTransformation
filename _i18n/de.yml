@@ -10,10 +10,10 @@ pages:
   more: mehr
   portfoliotitle: Unser Transformations Portfolio
   contacttitle: Kontakt zu Uns
-  mindsettitle: Unser Mindset
+  mindsettitle: Unsere Denkweise
 
 contact:
-  title: Kontakt Forumlar
+  title: Kontakt Formular
   name: Name
   email: E-Mail
   message: Nachricht
@@ -30,7 +30,7 @@ portfolio:
   project_two_url: /businessTransformation/
   project_two_image: /assets/images/contact4.png
 
-  project_three: Menschen zentriere Transformationen
+  project_three: Menschen zentrierte Transformationen
   project_three_description: Sie sind ein wundervolles Individuum. Ihr Transformationsweg wird ihr eigener und spezieller Prozess sein. Ihre innersten Gefühle wollen Ihnen einen Weg zu einem neuen und freien Leben zeigen.<br><br> Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
   project_three_url: /humanTransformation/
   project_three_image: /assets/images/woman-mini.jpg

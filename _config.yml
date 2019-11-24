@@ -20,8 +20,8 @@ name: Miriam & Markus Schmidberger
 email: markus.schmidberger @ gmail.com
 phone: 0049 151 11143434
 description: global.description
-baseurl: "/InsideOutTransformation" # the subpath of your site, e.g. /blog
-url: "https://schmidb.github.iox" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.familien-transformation.de" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

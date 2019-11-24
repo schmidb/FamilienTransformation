@@ -2,7 +2,9 @@ global:
   german: Deutsch
   english: Englisch
   title: Familien Transformation
-  description: Wage dich auf den Weg von "Innen nach Aussen" um Familienträumen zu erfüllen und mit Familiencoolness zu entspannen.
+  description: Wage dich auf den Weg von "Innen nach Aussen".<br>Wir teilen mit dir unseren Weg zu unseren Familienträumen und zeigen dir wie Entspannung bei dir und in deiner Familie ankommt.
+
+
 
 pages:
   home: Zuhause
@@ -22,7 +24,7 @@ contact:
 portfolio:
   project_one: Familien-Träume Seminar
   project_one_underline: 19. - 26. Spetember 2020 im Familotel Ebbinghof
-  project_one_description: Spreche deine Träume aus und lebe sie. <br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
+  project_one_description: Spreche deine Träume aus und lebe sie.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
   project_one_url: /familientraeume/
   project_one_image: assets/images/traeume-mini.jpg
 
@@ -38,9 +40,9 @@ portfolio:
 
   project_two: Familien-Coolness Seminar
   project_two_underline: 27. Juni - 4. Juli 2020 im Familotel Ebbinghof
-  project_two_description: So hast du noch nie entspannt und gelernt zugleich. <br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
+  project_two_description: So hast du noch nie entspannt und gelernt zugleich.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
   project_two_url: /familiencoolness/
-  project_two_image: assets/images/frogs-mini.png
+  project_two_image: assets/images/frogs-mini.jpg
 
   #project_three: Menschen zentrierte Transformationen
   #project_three_description: Sie sind ein wundervolles Individuum. Ihr Transformationsweg wird ihr eigener und spezieller Prozess sein. Ihre innersten Gefühle wollen Ihnen einen Weg zu einem neuen und freien Leben zeigen.<br><br> Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
@@ -48,13 +50,13 @@ portfolio:
   #project_three_image: /assets/images/woman-mini.jpg
 
   project_three: Familien Yoga Auszeit
-  project_three_underline: 20. - 27. Juni 2020<br> 12. - 19. Spetember 2020 am Ebbinghof
-  project_three_description: Schreibe über
+  project_three_underline: 20. - 27. Juni 2020 und 12. - 19. Spetember 2020 im Familotel Ebbinghof
+  project_three_description: Yoga bewegt deinen Körper und Seele.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage diese Woche eine familienfreundliche Yoga Auszeit.
   project_three_url: /yogaTransformation/
-  project_three_image: /assets/images/cat-yoga-mini.jpg
+  project_three_image: assets/images/young-woman-mini.jpg
 
   project_four: Wege zu New Work Seminar
   project_four_underline: Termin auf Anfrage
-  project_four_description: Schreibe über
+  project_four_description: bald mehr
   project_four_url: /newWork/
-  project_four_image: /assets/images/grandmother-mini.jpg
+  project_four_image: assets/images/grandmother-mini.jpg

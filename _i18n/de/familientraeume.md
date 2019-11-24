@@ -14,7 +14,7 @@ Integriert in die Angebote des Ebbinghofes erwarten euch am Vormittag und an Nac
    <li class="collection-item">Definiere deinen Weg zu deinem Traum (Action-Cafe)</li>
  </ul>
 
-![Coole-Frösche](/assets/images_ebbinghof/Header Matschhände.jpg){:class="materialboxed"}{:width="250"}{:style="float: left;margin-right:10px;"}
+![Coole-Frösche](/assets/images_ebbinghof/matschhaende.jpg){:class="materialboxed"}{:width="250"}{:style="float: left;margin-right:10px;"}
 Das Programm ist so gestaltet, dass beide Eltern an den Kursen teilnehmen können und wird ergänzt durch kurze Einheiten für die ganze Familie. Die Kinder genießen während dem Seminar die Zeit in der Kinderbetreuung des Ebbinghofes. Dürfen aber auch vorbeischauen, zuhören oder im Raum spielen.
 
 Als Extra erhältst du noch ein persönliches Coaching mit unseren Seminarleitern Miriam & Markus die Ihren Traum von Leben mit Kindern auf Augenhöhe jeden Tag neugestalten. Hier kannst du all deine Fragen loswerden.

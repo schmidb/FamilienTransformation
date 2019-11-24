@@ -7,10 +7,10 @@ URL public: https://www.familientransformation.de
 Contact: familientransformation @ gmail.com
 
 ## Technology
-Jekyll[https://jekyllrb.com/]
+Wensite is rendered by [Jekyll](https://jekyllrb.com/).
 
 ### Layout
-* Using Jekyll theme: https://github.com/jameshamann/jekyll-material-theme
+* Using the Jekyll material-theme: https://github.com/jameshamann/jekyll-material-theme
 * this theme uses https://materializecss.com/icons.html for css, buttons, ..
 * trick for overwriting theme settings https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 

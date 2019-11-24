@@ -1,10 +1,13 @@
 # Documentation for InsideOutTransformation Webpage
 
 URL: https://schmidb.github.io/InsideOutTransformation/
-Contact: markus.schmidberger @ gmail.com
+
+URL: https://www.familientransformation.de
+
+Contact: familientransformation @ gmail.com
 
 ## Technology
-Jekyll: https://jekyllrb.com/
+Jekyll[https://jekyllrb.com/]
 
 ### Layout
 * Using Jekyll theme: https://github.com/jameshamann/jekyll-material-theme

@@ -17,8 +17,8 @@
 # in the templates via {{ site.myvariable }}.
 title: global.title
 name: Miriam & Markus Schmidberger
-email: markus.schmidberger @ gmail.com
-phone: 0049 151 11143434
+email: familientransformation @ gmail.com
+#phone: 0049 151 11143434
 description: global.description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.familien-transformation.de" # the base hostname & protocol for your site, e.g. http://example.com

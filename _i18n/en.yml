@@ -21,26 +21,30 @@ contact:
 
 portfolio:
   project_one: The transformation network
+  project_one_underline: ddd
   project_one_description: Every transformation is special ...
   project_one_url: /transformationNetzwerk/
   project_one_image: /assets/images/play-stone-small.jpg
 
   project_two: ABC Business Transformations
+  project_two_underline: ddd
   project_two_description: Successfull transformations ...
   project_two_url: /businessTransformation/
   project_two_image: /assets/images/contact4.png
 
   project_three: Human Transformations
+  project_three_underline: ddd
   project_three_description: You are a Individuum
   project_three_url: /humanTransformation/
   project_three_image: /assets/images/woman-mini.jpg
 
   project_four: New Work Mentoring
+  project_four_underline: ddd
   project_four_description: Describe your project!
   project_four_url: /newWork/
   project_four_image: /assets/images/grandmother-mini.jpg
 
-  project_five: Yoga for transformation
-  project_five_description: Describe your project!
-  project_five_url: /yogaTransformation/
-  project_five_image: /assets/images/cat-yoga-mini.jpg
+  #project_five: Yoga for transformation
+  #project_five_description: Describe your project!
+  #project_five_url: /yogaTransformation/
+  #project_five_image: /assets/images/cat-yoga-mini.jpg

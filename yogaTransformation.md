@@ -1,7 +1,7 @@
 ---
 layout: portfolio
-title: Yoga zur Transformations
-image: /assets/images/cat-yoga-mini.jpg
+title: Familien Yoga Auszeit
+image: /assets/images/young-woman-mini.jpg
 permalink: /yogaTransformation/
 ---
 {% translate_file yogaTransformation.md %}

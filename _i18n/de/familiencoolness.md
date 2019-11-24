@@ -1,4 +1,4 @@
-So hast du noch nie entspannt und gelernt zugleich. Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
+So hast du noch nie entspannt und gelernt zugleich. Im [Familotel Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
 
 ![Ebbinghof-Seminarraum](/assets/images_ebbinghof/ebbinghof-seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 In entspannter Urlaubsumgebung kannst du zusammen mit der ganzen Familie die Coolnes in der Familie willkommen heißen. Viele kleine Einheiten zeigen dir neue Wege auf und können dann als Familie gemeinsam ausprobiert und eingeübt werden.
@@ -22,4 +22,4 @@ Abgerundet wird das Familien-Coolnes-Woche durch Lagerfeuerabend, Familienwander
 Das Seminar ist ausgelegt für Familien mit mindestens einem Kind. Aber auch Alleinerziehende sind herzlich eingeladen das Seminar zu besuchen und am Ebbinghof entspannt zu lernen.
 
 #### Nächste Termine:
-<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="_blank">27. Juni - 4. Juli 2020 im Familotel Ebbinghof. Jetzt anmelden</a>
+<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 27. Juni - 4. Juli 2020 im Familotel Ebbinghof</a>

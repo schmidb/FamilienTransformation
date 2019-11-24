@@ -1,4 +1,6 @@
-New Work ist Work-Life & Life Work Transformation
+.. bald mehr und mehr details ..
+
+New Work is Work-Life & Life Work Transformation
 
 
 New work is a change in perspective:

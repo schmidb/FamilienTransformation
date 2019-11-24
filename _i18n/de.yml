@@ -20,11 +20,11 @@ contact:
   send: senden
 
 portfolio:
-  project_one: Familienträume Seminar
-  project_one_underline: 19. - 26. Spetember 2020 am Ebbinghof
-  project_one_description: blablab <br> In Kooperation mit dem <a hred="fdd">Ebbinghof</a>
+  project_one: Familien-Träume Seminar
+  project_one_underline: 19. - 26. Spetember 2020 im Familotel Ebbinghof
+  project_one_description: Spreche deine Träume aus und lebe sie. <br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
   project_one_url: /familientraeume/
-  project_one_image: /assets/images/play-stone-small.jpg
+  project_one_image: assets/images/traeume_mini.jpg
 
   #project_one: Das Transformations-Netzwerk
   #project_one_description: Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht "Die eine Methode" die alle Transformationen erfolgreich macht.<br><br>In unserem Transformations-Netzwerk finden Sie viele Kontakte und Tipps für Ihren nächsten Schritt im Transformationskreislauf.

@@ -4,8 +4,6 @@ global:
   title: Familien Transformation
   description: Wage dich auf den Weg von "Innen nach Aussen".<br>Wir teilen mit dir unseren Weg zu unseren Familienträumen und zeigen dir wie Entspannung bei dir und in deiner Familie ankommt.
 
-
-
 pages:
   home: Zuhause
   work: Arbeit
@@ -28,26 +26,11 @@ portfolio:
   project_one_url: /familientraeume/
   project_one_image: assets/images/traeume-mini.jpg
 
-  #project_one: Das Transformations-Netzwerk
-  #project_one_description: Jede Transformation ist etwas besonderes und eigenes. Es gibt nicht "Die eine Methode" die alle Transformationen erfolgreich macht.<br><br>In unserem Transformations-Netzwerk finden Sie viele Kontakte und Tipps für Ihren nächsten Schritt im Transformationskreislauf.
-  #project_one_url: /transformationNetzwerk/
-  #project_one_image: /assets/images/play-stone-small.jpg
-
-  #project_two: ABC Geschäfts-Transformationen
-  #project_two_description: Erfolgreiche Transformationen in der Geschäftswelt entwickeln sich auch im innersten der Angestellten und durchlaufen einen vielschichtigen Weg bis neuer Business-Wert auf dem Markt erzielt wird.<br><br> Wir bieten Konzepte und Prozessbegleitung für Agile & BigData & Cloud (ABC) Transformationen.
-  #project_two_url: /businessTransformation/
-  #project_two_image: /assets/images/contact4.png
-
   project_two: Familien-Coolness Seminar
   project_two_underline: 27. Juni - 4. Juli 2020 im Familotel Ebbinghof
   project_two_description: So hast du noch nie entspannt und gelernt zugleich.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
   project_two_url: /familiencoolness/
   project_two_image: assets/images/frogs-mini.jpg
-
-  #project_three: Menschen zentrierte Transformationen
-  #project_three_description: Sie sind ein wundervolles Individuum. Ihr Transformationsweg wird ihr eigener und spezieller Prozess sein. Ihre innersten Gefühle wollen Ihnen einen Weg zu einem neuen und freien Leben zeigen.<br><br> Dieser Weg wird nicht leicht werden. In unserem Transformations-Netzwerk finden sie viele Methoden und Freunde die Sie auf dem Weg unterstützen.
-  #project_three_url: /humanTransformation/
-  #project_three_image: /assets/images/woman-mini.jpg
 
   project_three: Familien Yoga Auszeit
   project_three_underline: 20. - 27. Juni 2020 und 12. - 19. Spetember 2020 im Familotel Ebbinghof

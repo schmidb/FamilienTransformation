@@ -29,17 +29,17 @@ portfolio:
   project_two: Familien-Coolness Seminar
   project_two_underline: 27. Juni - 4. Juli 2020 im Familotel Ebbinghof
   project_two_description: So hast du noch nie entspannt und gelernt zugleich.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
-  project_two_url: /familiencoolness/
+  project_two_url: familiencoolness/
   project_two_image: assets/images/frogs-mini.jpg
 
   project_three: Familien Yoga Auszeit
   project_three_underline: 20. - 27. Juni 2020 und 12. - 19. Spetember 2020 im Familotel Ebbinghof
   project_three_description: Yoga bewegt deinen Körper und Seele.<br><br>Im Familotel Ebbinghof erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage diese Woche eine familienfreundliche Yoga Auszeit.
-  project_three_url: /yogaTransformation/
+  project_three_url: yogaTransformation/
   project_three_image: assets/images/young-woman-mini.jpg
 
   project_four: Wege zu New Work Seminar
   project_four_underline: Termin auf Anfrage
   project_four_description: bald mehr
-  project_four_url: /newWork/
+  project_four_url: newWork/
   project_four_image: assets/images/grandmother-mini.jpg

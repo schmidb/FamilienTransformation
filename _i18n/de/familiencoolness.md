@@ -22,4 +22,4 @@ Abgerundet wird das Familien-Coolnes-Woche durch Lagerfeuerabend, Familienwander
 Das Seminar ist ausgelegt für Familien mit mindestens einem Kind. Aber auch Alleinerziehende sind herzlich eingeladen das Seminar zu besuchen und am Ebbinghof entspannt zu lernen.
 
 #### Nächste Termine:
-<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="_blank">27. Juni - 4. Juli 2020 im Familotel Ebbinghof<br>jetzt anmelden</a>
+<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="_blank">27. Juni - 4. Juli 2020 im Familotel Ebbinghof. Jetzt anmelden</a>

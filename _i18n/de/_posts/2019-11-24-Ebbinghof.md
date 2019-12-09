@@ -4,7 +4,7 @@ title:  Unser entspannter Kooperationspartner mit Raum zum Lernen
 date:   2019-11-24
 image: assets/images_ebbinghof/ebbinghof_2.jpg
 ---
-<i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.</i> Daniela Trgges, Geschäftsführerin des Familotels Ebgginhof
+<i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.</i> Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof
 
 ![Ebbinghof-Spielraum](/assets/images_ebbinghof/Familotel-Ebbinghof-0319_001.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"}
 
@@ -15,7 +15,7 @@ Während des Besuches auf dem Ebbinghof wurde uns klar, dass wir unsere Wege hin
 
 #### Lernumgebung
 <i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann am besten wachsen und sich weiterentwickeln.</i>
-Mit Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof haben wir auch noch eine Hotelchefin gefunden die selber Familienträume (Sabbatical) verwirklicht und neue Wege für Familien aufzeigt.
+Mit Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof haben wir eine Hotelchefin gefunden die selber Familienträume (Sabbatical) verwirklicht und neue Wege für Familien aufzeigt.
 
 ![Ebbinghof-Schwimmbad](/assets/images_ebbinghof/Schwimmbad.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
@@ -23,7 +23,7 @@ Mit Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof haben wir auch
   <li style="list-style-type:disc;">Wo ist man entspannter als im Urlaub auf dem Ebbinghof mit all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage?</li>
   <li style="list-style-type:disc;">Wo kann die ganze Familie dabei sein und neu gelerntes sofort ausprobieren?</li>
   <li style="list-style-type:disc;">Wo wirst du vom Personal liebevoll unterstützt wenn beim Abendessen mal wieder alles mit deinen Kindern "falsch" läuft und du nicht cool bleiben kannst?</li>
-  <li style="list-style-type:disc;">Wo kann die ganze Familie entspannt träume Träumen und beginnen zu verwirklichen?</li>
+  <li style="list-style-type:disc;">Wo kann die ganze Familie entspannt Träume träumen, aussprechen und beginnen zu verwirklichen?</li>
   <li style="list-style-type:disc;">Wo kannst du Yoga machen und deine Familie ist dabei oder vergnügt sich in unmittelbarer Nähe bei Ponyreiten, Schwimmen oder Spielen?</li>
 </ul>
 

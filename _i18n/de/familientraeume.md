@@ -7,11 +7,11 @@ Ein Traum kann ein Haustier sein, ein neuer Beruf eines Elternteiles, eine neue 
 
 #### Ablauf & Inhalte:
 Integriert in die Angebote des Ebbinghofes erwarten euch am Vormittag und an Nachmittag spannende Vorträge und Workshops zu folgenden Themen:
-<ul class="collection">
-   <li class="collection-item">Wovon träume ich? (Story-Telling)</li>
-   <li class="collection-item">Finde Antworten für all deine Fragen zu deinem Traum.</li>
-   <li class="collection-item">Mach dir deine Ängste rundum deine Träume bewusst.</li>
-   <li class="collection-item">Definiere deinen Weg zu deinem Traum (Action-Cafe)</li>
+<ul>
+  <li style="list-style-type:disc;">Wovon träume ich? (Story-Telling)</li>
+   <li style="list-style-type:disc;">Finde Antworten für all deine Fragen zu deinem Traum.</li>
+   <li style="list-style-type:disc;">Mach dir deine Ängste rundum deine Träume bewusst.</li>
+   <li style="list-style-type:disc;">Definiere deinen Weg zu deinem Traum (Action-Cafe)</li>
  </ul>
 
 ![Coole-Frösche](/assets/images_ebbinghof/matschhaende.jpg){:class="materialboxed"}{:width="250"}{:style="float: left;margin-right:10px;"}

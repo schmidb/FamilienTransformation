@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Wege zu New Work - Seminar
+title: Wege zu New Work
 image: /assets/images/grandmother-mini.jpg
 permalink: /newWork/
 ---

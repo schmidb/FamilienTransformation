@@ -8,7 +8,7 @@ Offen und ehrlich teilen wir unseren Weg und unsere
 Transformationsprozesse von Kind zu Erwachsenen zu Eltern und zu authentischen
 Menschen.
 
-![Miriam&Markus](/assets/images/miri_markus.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+![Miriam&Markus](/assets/images/miri_markus.JPG){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
 
 Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als Paar aber auch mit unseren Kindern. Das klappt nicht jeden Tag. Auch wir machen Fehler und wollen daraus wieder lernen. Ein ehrlicher und konstruktiver Umgang miteinander als Paar und mit unseren Kindern hilft uns dabei.

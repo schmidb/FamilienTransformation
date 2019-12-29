@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Familien Yoga Auszeit
+title: portfolio.project_three
 image: /assets/images/young-woman-mini.jpg
 permalink: /yogaTransformation/
 ---

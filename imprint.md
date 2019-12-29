@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Imprint
+title: pages.imprint
 image: /assets/images/grandmother-mini.jpg
 permalink: /imprint/
 ---

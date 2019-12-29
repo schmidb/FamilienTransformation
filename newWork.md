@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Wege zu New Work
+title: portfolio.project_four
 image: /assets/images/grandmother-mini.jpg
 permalink: /newWork/
 ---

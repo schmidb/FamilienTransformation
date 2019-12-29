@@ -1,6 +1,10 @@
 <div class="row">
-  {% for post in site.posts %}
 
+  {% if site.posts.size == 0 %}
+    No English posts at the moment. Please check our page in German language.
+  {% else %}
+
+  {% for post in site.posts %}
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
@@ -16,4 +20,7 @@
     </div>
   </div>
   {% endfor %}
+
+  {% endif %}
+
 </div>

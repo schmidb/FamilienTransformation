@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Familien-Coolness Seminar
+title: portfolio.project_two
 image: /assets/images/frogs-mini.jpg
 permalink: /familiencoolness/
 ---

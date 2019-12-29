@@ -27,6 +27,9 @@
 <loc>http://localhost:4000/newWork/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/personalfamilycoach/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/yogaTransformation/</loc>
 </url>
 </urlset>

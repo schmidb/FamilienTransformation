@@ -6,7 +6,7 @@ In entspannter Urlaubsumgebung kannst du zusammen mit deiner ganzen Familie den 
 Ein Traum kann ein Haustier sein, ein neuer Beruf eines Elternteiles, eine neue Wohnung, eine neue Art des Miteinanders, ein Sabbatical oder vielleicht sogar ein Auswandern oder Leben ohne Schule.
 
 #### Ablauf & Inhalte:
-Integriert in die Angebote des Ebbinghofes erwarten euch am Vormittag und an Nachmittag spannende Vorträge und Workshops zu folgenden Themen:
+Integriert in die Angebote des Ebbinghofs erwarten euch spannende Vorträge und Workshops (24 Stunden Live-Seminar an 6 Tagen, z.B. 9:30-12 Uhr und 15:30-17 Uhr) zu folgenden Themen:
 <ul>
   <li style="list-style-type:disc;">Wovon träume ich? (Story-Telling)</li>
    <li style="list-style-type:disc;">Finde Antworten für all deine Fragen zu deinem Traum.</li>
@@ -23,5 +23,18 @@ Abgerundet wird das Familien-Träume-Woche durch Lagerfeuerabend, Familienwander
 
 Das Seminar ist ausgelegt für Familien mit mindestens einem Kind. Aber auch Alleinerziehende sind herzlich eingeladen das Seminar zu besuchen und am Ebbinghof entspannt zu lernen.
 
-#### Nächste Termine:
+#### Nächste Termine & Preise:
+Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!):
+<br>~~Regulärer Preis pro Familie: 4400,-€~~
+<br>Pionierpreis für die ersten Familien in 2020: 1990,-€/Familie
+
+Für alleinreisende Eltern mit Kind/ern:
+<br>~~Regulär 3400,-€~~
+<br>Pionierpreis 2020: 1590,- €/Familie
+
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 19. - 26. September 2020 im Familotel Ebbinghof</a>
+
+
+<br><br>
+###### *Hinweise:*
+*Es wird darauf hingewiesen, dass die Seminare keinen Ersatz für eine Therapie, Paartherapie, Familientherapie oder medizinische Behandlung darstellen. Über sämtliche private und persönliche Aussagen oder Vorkommen in den Seminaren wird absolutes Stillschweigen bewahrt. Es werden keine persönlichen Details, die im Verlauf des Seminars bekannt werden, nach außen getragen.*

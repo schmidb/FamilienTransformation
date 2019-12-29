@@ -18,7 +18,16 @@ In den Yogareihen dieses Seminars beschäftigen wir uns viel mit unseren Körper
 </ul>
 
 Zusammen üben wir diese Woche unsere emotionale Balance wieder zu finden. Wir üben auch kleine Yoga-Reihen die du einfach in deinen Familienalltag integrieren kannst.
+Von Montag bis Freitag gibt es täglich zwei Yoga-Einheiten unter professioneller Anleitung, moderierter Erfahrungsautausch zum Thema „Anspannung und Entspannung im Alltag“ und Handouts für zu Hause.
 
+###### **Termine & Preise:**
+Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!):
+<br>~~Regulärer Preis pro Familie: 690,-€~~
+<br>Pionierpreis für die ersten Familien in 2020: 290,- €/Familie
+
+Für alleinreisende Eltern mit Kind/ern:
+<br>~~Regulär 450,-€~~
+<br>Pionierpreis 2020: 190,- €/Familie
 
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 20. - 27. Juni 2020 im Familotel Ebbinghof</a>
 
@@ -27,6 +36,17 @@ Zusammen üben wir diese Woche unsere emotionale Balance wieder zu finden. Wir �
 <br><br>
 #### 12. – 19. September 2020 – Rishikesh Asanas
 Eine Woche Yoga für die Yoga-Erfahrenen Mamas und / oder Papas. Wir üben die Rishikesh Reihe die uns im Familienalltag hilft unseren Körper und Seele zu stärken.
+
+Leistungen: von Montag bis Freitag täglich 2 Yoga-Einheiten unter professioneller Anleitung, individuelle Tipps für die Umsetzung im Familienalltag, moderierter Erfahrungsautausch zum Thema „Anspannung und Entspannung im Alltag“, Handouts für zu Hause.
+
+###### **Termine & Preise:**
+Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!):
+<br>~~Regulärer Preis pro Familie: 690,-€~~
+<br>Pionierpreis für die ersten Familien in 2020: 290,- €/Familie
+
+Für alleinreisende Eltern mit Kind/ern:
+<br>~~Regulär 450,-€~~
+<br>Pionierpreis 2020: 190,- €/Familie
 
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 12. - 19. September 2020 im Familotel Ebbinghof</a>
 
@@ -39,3 +59,8 @@ Eine Woche Yoga für die Yoga-Erfahrenen Mamas und / oder Papas. Wir üben die R
 Abgerundet wird die Familien-Yoga-Auszeit durch Lagerfeuerabend, Familienwanderung im Wald und vielen tollen weiteren und freiwilligen Aktivitäten. Dein Urlaub steht weiterhin im Vordergrund.
 
 Die Familien-Yoga-Auszeit ist ausgelegt für Familien mit mindestens einem Kind. Aber auch Alleinerziehende sind herzlich eingeladen die Auszeit zu besuchen und am Ebbinghof entspannt Yoga zu praktizieren.
+
+
+<br><br>
+###### *Hinweise:*
+*Es wird darauf hingewiesen, dass die Seminare keinen Ersatz für eine Therapie, Paartherapie, Familientherapie oder medizinische Behandlung darstellen. Über sämtliche private und persönliche Aussagen oder Vorkommen in den Seminaren wird absolutes Stillschweigen bewahrt. Es werden keine persönlichen Details, die im Verlauf des Seminars bekannt werden, nach außen getragen.*

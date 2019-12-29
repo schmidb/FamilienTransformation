@@ -4,7 +4,7 @@ So hast du noch nie entspannt und gelernt zugleich. Im [Familotel Ebbinghof](htt
 In entspannter Urlaubsumgebung kannst du zusammen mit der ganzen Familie die Coolnes in der Familie willkommen heißen. Viele kleine Einheiten zeigen dir neue Wege auf und können dann als Familie gemeinsam ausprobiert und eingeübt werden.
 
 #### Ablauf & Inhalte:
-Integriert in die Angebote des Ebbinghofes erwarten euch am Vormittag und an Nachmittag spannende Vorträge und Workshops zu folgenden Themen:
+Integriert in die Angebote des Ebbinghofs erwarten euch spannende Vorträge und Workshops (15 Stunden Live-Seminar an 5 Tagen, z.B. 10-12 Uhr und 16-17 Uhr) zu folgenden Themen:
 <ul class="collection">
    <li class="collection-item">Bindung – Was ist das? Wozu dient sie? Wie bekomme ich diese?</li>
    <li class="collection-item">Wo komme ich eigentlich her?</li>
@@ -21,5 +21,18 @@ Abgerundet wird das Familien-Coolnes-Woche durch Lagerfeuerabend, Familienwander
 
 Das Seminar ist ausgelegt für Familien mit mindestens einem Kind. Aber auch Alleinerziehende sind herzlich eingeladen das Seminar zu besuchen und am Ebbinghof entspannt zu lernen.
 
-#### Nächste Termine:
+#### Nächste Termine & Preise:
+Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!):
+<br>~~Regulärer Preis pro Familie: 3850,-€~~
+<br>Pionierpreis für die ersten Familien in 2020: 1490,- €/Familie
+
+Für alleinreisende Eltern mit Kind/ern:
+<br>~~Regulär 2950,-€~~
+<br>Pionierpreis 2020: 1190,-€/Familie
+
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 27. Juni - 4. Juli 2020 im Familotel Ebbinghof</a>
+
+
+<br><br>
+###### *Hinweise:*
+*Es wird darauf hingewiesen, dass die Seminare keinen Ersatz für eine Therapie, Paartherapie, Familientherapie oder medizinische Behandlung darstellen. Über sämtliche private und persönliche Aussagen oder Vorkommen in den Seminaren wird absolutes Stillschweigen bewahrt. Es werden keine persönlichen Details, die im Verlauf des Seminars bekannt werden, nach außen getragen.*

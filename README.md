@@ -42,4 +42,5 @@ Pictures from https://pixabay.com/de/
 
 
 ## Law content
-tbd
+cookie: https://www.osano.com/cookieconsent/download/
+imprint: https://www.e-recht24.de

@@ -1,24 +1,14 @@
-
 New Work ist für uns ein Wandel der Perspektive auf unser heutiges Arbeiten. Wir streben nach einem Miteinander zwischen Arbeit und privaten Leben das sich in jedem Moment erfüllend und lebenswert fühlt. Daher lohnt es sich aus zwei Richtungen auf das Thema zu schauen.
 
 
 ###### **Unsere persönliche Seite**
-Treibende Kraft für den Perspektivenwechsel ist oft ein Konflikt unseres Arbeitsalltags mit anderen Bereichen oder Grundbedürfnissen unseres Lebens. Oft entsteht der Konflikt durch unbewusste Annahmen darüber wie gearbeitet werden muss und dem Gefühl in der Situation keine Wahl zu haben.
-Ein erster Schritt ist die Frage "Warum arbeite ich wirklich? Was erfülle ich mir mit meiner Arbeit?". Um hier in die Tiefe und damit hinter die Kulissen zu kommen, hört die Antwort nicht mit dem ersten Impuls auf und in der Regel setzt sich die Antwort aus verschiedenen Faktoren zusammen. Oft finden sich darin versteckt nie hinterfragte Glaubenssätze, an denen verschiedene Emotionen hängen.
+Treibende Kraft für den Perspektivenwechsel ist oft ein Konflikt unseres Arbeitsalltags mit anderen Bereichen (z.B. Familie) oder Grundbedürfnissen unseres Lebens. Oft entsteht der Konflikt durch unbewusste Annahmen darüber wie gearbeitet werden muss und einem Gefühl in der aktuellen Situation keine andere Wahl zu haben.
 
-Im Zuge solch eines Konflikts in meinem Leben habe ich entdeckt, dass überraschend viel gesellschaftlicher Wert daran hing sagen zu können, ich arbeite das und das. Und dass wo ich von mir immer dachte, dass ich von solch äußerlicher Bewertung in diesem Bereich unabhängig bin. Tief in mir versteckt und unsichtbar solange ich einen Beruf im klassischen Sinne ausgeübt habe, gibt es einen Teil, der verinnerlicht hat, als emanzipierte Frau muss ich eine Karriere haben, die mich unabhängig und erfolgreich macht, sonst bin ich in der Gesellschaft nichts wert. Dieser Teil ist mit massiven Ängsten über mich hereingebrochen, als ich entschieden habe, für unbestimmte Zeit nicht mehr klassisch zu arbeiten.
+Ein erster Schritt ist die Betrachtung der Fragen "Warum arbeite ich wirklich? Was erfülle ich mir mit meiner Arbeit?". Um hier in die Tiefe und damit hinter die Kulissen zu kommen, hört die Antwort nicht mit dem ersten Impuls auf. In der Regel setzt sich die Antwort aus verschiedenen Faktoren zusammen. Meist finden sich darin versteckt nie hinterfragte Glaubenssätze, an denen verschiedene Emotionen hängen.
 
+Im Zuge solch eines Konflikts zwischen Arbeitsalltag und Familie habe ich, Miriam, in meinem Leben vieles Neues gelernt: im Jahr 2009 hing für mich überraschend viel gesellschaftlicher Wert an der Aussage "ich arbeite das und das". Ich unterlag damals der Annahme, dass ich vor allem in beruflichen Umfeld unabhängig von äusserlichen Bewertungen bin. Tief in mir versteckt und unsichtbar habe ich einen bis dahin unbekannten Anteil entdeckt. Dieser hatte verinnerlicht, dass ich als emanzipierte Frau eine beruflich klassische Karriere machen muss, die mich unabhängig und erfolgreich macht, sonst bin ich in der Gesellschaft nichts wert. Dieser Teil ist mit massiven Ängsten über mich hereingebrochen, als ich entschieden habe, für unbestimmte Zeit nicht mehr klassisch zu arbeiten.
 
-
-xxxxxxxxxxxxxxxxw
-Als Individuum darf und kann ich mich fragen was Arbeiten für mich bedeutet und wieso ich arbeiten gehe. Wir streben ein Leben an in dem ich in der Arbeit authentisch "ich sein" darf, ich keine Rolle spielen muss, Arbeiten mir dient und ich mehr als nur Geld aus der Arbeit mitnehme. Um dies zu erreichen muss ich bei mir selber beginnen und mir Fragen der folgenden Art beantworten:
-<ul>
-   <li style="list-style-type:disc;">Wie fühle ich mich an welchem Tag in der Arbeit?</li>
-   <li style="list-style-type:disc;">Wie dient mir meine Arbeit aktuell?</li>
-   <li style="list-style-type:disc;">Was erwarte ich von meiner Arbeit?</li>
-   <li style="list-style-type:disc;">Was brauche ich damit meine Arbeit authentisch zu mir und leben passt?</li>
-</ul>
-Es beginnt alles mit meiner Selbsterforschung und ermöglicht mir dann neue Wege zu gehen.
+Es beginnt somit alles mit unserer Selbsterforschung und ermöglicht uns dann neue Wege zu gehen.
 
 
 ###### **Unsere Arbeitsmodelle**

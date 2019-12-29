@@ -49,7 +49,7 @@ google_analytics_tracking_id: UA-145089068-1
 # languages
 languages: ["de", "en"]
 exclude_from_localizations: ["assets", "CNAME", "archive"]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'archive']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'archive', 'docs']
 defaultLang: de
 languageNames:
   de: Deutsch

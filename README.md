@@ -7,7 +7,7 @@ URL public: https://www.familientransformation.de
 Contact: familientransformation @ gmail.com
 
 ## Technology
-Wensite is rendered by [Jekyll](https://jekyllrb.com/).
+Website is rendered by [Jekyll](https://jekyllrb.com/).
 
 ### Layout
 * Using the Jekyll material-theme: https://github.com/jameshamann/jekyll-material-theme
@@ -26,7 +26,7 @@ Wensite is rendered by [Jekyll](https://jekyllrb.com/).
 
 ### Deployment
 * jekyll-multiple-languages plugin not supported by github
-  * run "bundle exec jekyll serve -d docs"
+  * run "bundle exec jekyll build -d docs"
   * and upload docs folder to github as well
   * configure github.io to use docs folder from master branch
 

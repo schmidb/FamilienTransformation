@@ -45,7 +45,12 @@
           }
         },
         "theme": "classic",
-        "position": "bottom-left"
+        "position": "bottom-left",
+        "content": {
+            "message": "Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis auf unserer Website zu ermöglichen.",
+            "dismiss": "Danke",
+            "link": "mehr"
+          }
       });
       </script>
 
@@ -59,7 +64,7 @@
         <div class="row center">
           <h5 class="header col s12 text-lighten-2">Wage dich auf den Weg von "Innen nach Aussen".<br>Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege wie Entspannung bei dir und in deiner Familie ankommen kann.</h5>
         </div>
-        
+
       </div>
     </div>
     <div class="parallax"><img src="/assets/images/caterpillar-2-small_cut.jpg" alt="background img 1"></div>
@@ -67,20 +72,11 @@
 </div>
 
 
-<div id="cookies" style="display:none">
+<!-- <div id="cookies" style="display:none">
   <p style="text-align:left; padding-left:8px"><a value="hide/show" id="check" class="waves-effect waves-light green lighten-1 btn btn-floating pulse" onclick="Materialize.toast('', 2000)" ><i class="material-icons">check</i></a></p>
-  
-<!-- Tap Target Structure -->
-<div class="tap-target" data-activates="check">
-  <div class="tap-target-content">
-    <h5 style="color:black;">Cookie Policy</h5>
-    <p>We use Cookies on this website to track usage. By continuing to use this website, you agree to the use of Cookies.</p>
-    <br><br><br>
-    <p><b>For more information visit the <a href="https://www.cookielaw.org/google-analytics-eu-cookie-law/">Cookie Law Website.</a></b></p>
-  </div>
+  { include cookies.html }
 </div>
-
-</div>
+-->
 
 
 <div class="container" style="padding:20px;">

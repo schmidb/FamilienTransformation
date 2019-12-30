@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2019/08/01/DasSindWir/</loc>
+<lastmod>2019-08-01T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019/11/24/Ebbinghof/</loc>
+<lastmod>2019-11-24T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/familiencoolness/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/familientraeume/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/imprint/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/newWork/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/personalfamilycoach/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/yogaTransformation/</loc>
+</url>
+</urlset>

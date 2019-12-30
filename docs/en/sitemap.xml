@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.familien-transformation.de/en/404/</loc>
+<loc>http://localhost:4000/en/404/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/familiencoolness/</loc>
+<loc>http://localhost:4000/en/familiencoolness/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/familientraeume/</loc>
+<loc>http://localhost:4000/en/familientraeume/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/imprint/</loc>
+<loc>http://localhost:4000/en/imprint/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/</loc>
+<loc>http://localhost:4000/en/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/newWork/</loc>
+<loc>http://localhost:4000/en/newWork/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/personalfamilycoach/</loc>
+<loc>http://localhost:4000/en/personalfamilycoach/</loc>
 </url>
 <url>
-<loc>https://www.familien-transformation.de/en/yogaTransformation/</loc>
+<loc>http://localhost:4000/en/yogaTransformation/</loc>
 </url>
 </urlset>

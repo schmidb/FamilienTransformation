@@ -1,17 +1,32 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
+
       <meta name="description" content="{% t page.description %}" />
       <meta name="author" content="{{ site.name }}" />
+
       <link rel="stylesheet" type="text/css" href="{{ "/assets/css/materialize.css" | prepend: site.baseurl_root }}">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
       {% include google_analytics.html %}
 
+      {% capture temp1 %}{% t page.title %}{% endcapture %}
+      {% if temp1 != "" %}
       <title>{% t site.title %} - {% t page.title %}</title>
+      <meta property=“og:title“ content="{% t site.title %} - {% t page.title %}" />
+      {% else %}
+      <title>{% t site.title %}</title>
+      <meta property=“og:title“ content="{% t site.title %}" />
+      {% endif %}
+
+
+      <meta property=“og:description“ content="{% t page.description %}" />
+      <meta property=“og:url“ content="{{ site.url }}{{ page.url }}" />
+      <meta property=“og:image“ content="https://familien-transformation.de/assets/images/butterflies-small.jpg" />
+
 
       <!-- js for cookie message -->
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />

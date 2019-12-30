@@ -32,7 +32,7 @@ Für alleinreisende Eltern mit Kind/ern:
 <br>~~Regulär 3400,-€~~
 <br>Pionierpreis 2020: 1590,- €/Familie
 
-<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 20. - 27. September 2020 im Familotel Ebbinghof</a>
+<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/urlaub-online-buchen/#/offer-list.php?c%5Bid_package%5D=90403" target="blank">Jetzt anmelden - 20. - 27. September 2020 im Familotel Ebbinghof</a>
 
 
 <br><br>

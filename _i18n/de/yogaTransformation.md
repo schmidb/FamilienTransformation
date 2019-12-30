@@ -1,6 +1,6 @@
 Yoga bewegt deinen Körper und Seele. Im [Familotel Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage diese Woche eine familienfreundliche Yoga Auszeit.
 
-#### 20. -27. Juni 2020 – Emotional Balance Yoga
+#### 21. -28. Juni 2020 – Emotional Balance Yoga
 Eine Woche Yoga für Mama und / oder Papa mit und ohne Yoga-Vorkenntnisse. Eine tägliche Yoga-Einheit hilft dir deine emotionale Balance im „wilden“ Familienalltag zu finden und dich für alle Aufgaben im Familienleben zu stärken.
 
 ![Azalea](/assets/images/azalea.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
@@ -29,12 +29,12 @@ Für alleinreisende Eltern mit Kind/ern:
 <br>~~Regulär 450,-€~~
 <br>Pionierpreis 2020: 190,- €/Familie
 
-<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 20. - 27. Juni 2020 im Familotel Ebbinghof</a>
+<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 21. - 28. Juni 2020 im Familotel Ebbinghof</a>
 
 
 
 <br><br>
-#### 12. – 19. September 2020 – Rishikesh Asanas
+#### 13. – 20. September 2020 – Rishikesh Asanas
 Eine Woche Yoga für die Yoga-Erfahrenen Mamas und / oder Papas. Wir üben die Rishikesh Reihe die uns im Familienalltag hilft unseren Körper und Seele zu stärken.
 
 Leistungen: von Montag bis Freitag täglich 2 Yoga-Einheiten unter professioneller Anleitung, individuelle Tipps für die Umsetzung im Familienalltag, moderierter Erfahrungsautausch zum Thema „Anspannung und Entspannung im Alltag“, Handouts für zu Hause.
@@ -48,7 +48,7 @@ Für alleinreisende Eltern mit Kind/ern:
 <br>~~Regulär 450,-€~~
 <br>Pionierpreis 2020: 190,- €/Familie
 
-<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 12. - 19. September 2020 im Familotel Ebbinghof</a>
+<a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 13. - 20. September 2020 im Familotel Ebbinghof</a>
 
 
 

@@ -1,18 +1,18 @@
-
-Urlaubszeit ist die ideale Zeit zum Wachsen in der Familie. Wir begleiten dich als Familie in deinen Familienurlaub und durch kleine Anregungen, Coachings oder nur von uns Abschauen kommst du deinen Familienträumen und Familiencoolness näher.
+Wir haben immer wieder die Erfahrung gemacht, dass unser Weg genau da lang geht, wo es scheinbar keinen Weg gibt. Im Halten der vermeintlichen Auswegslosigkeit und im Erforschen ihrer Grenzen und Wände haben wir erfahren, dass es möglich ist, mit Offenheit und kreativen Entdeckergeist ins Unsichere zu starten und dadurch für uns neue Wege zu finden.
 
 ![Familie Schmidberger](/assets/images/family.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
-Unsere Erfahrung hat gezeigt, dass Weiterbildungsseminare für Eltern oder einzelne Personen toll sind. Wir haben dabei viel Input erhalten und konnten mal wieder richtig ausschlafen da uns kein Kind schon um 5 Uhr geweckt hat. Auch der abendliche Austausch mit anderen Seminarteilnehmern war toll: "Ich konnte mich mal wieder als richtiger Erwachsener fühlen." Nach dem Seminar sind wir voll motiviert zu Hause angekommen. Die meisten neuen Methoden haben aber nicht funktioniert oder sind im Alltagsstress untergegangen.
+Genauso wollen wir in den Bereich individuelle Begleitung starten. Intuitiv fühlt es sich nach etwas an, dass wir ausprobieren wollen. In welcher Form ist bis jetzt unklar. Für uns gehören zu dem Gestaltungsprozess auch die, die mit uns in persönlichen den Austausch gehen wollen.
 
-Es ist wissenschaftlich nachgewiesen, dass der nachhaltige Erfolg eines Seminares maßgeblich von deinem Umfeld abhängig ist. Wir machen es daher anders. Bei uns bringst du einen wesentlichen Teil deines Umfeldes - deine Familie - mit zum Seminar. Gemeinsam werdet ihr wachsen und euch nachhaltig unterstützen können:
-* [Familien-Träume Seminar]({% link familientraeume.md %})
-* [Familien-Coolness Seminar]({% link familiencoolness.md %})
-* [Familien Yoga Auszeit]({% link yogaTransformation.md %})
+Erste Ideen unsererseits sind ganz unterschiedlicher Art:
+<ul>
+  <li style="list-style-type:disc;">Wir sind des Öfteren in Berlin und im Münchner Süden, da können wir uns vorstellen uns einfach mit Euch zu treffen.</li>
+  <li style="list-style-type:disc;">Des Weiteren gibt es die Idee eine Woche im Urlaub gemeinsam zu verbringen.</li>
+  <li style="list-style-type:disc;">Oder Ihr habt zum Beispiel einen Bauernhof und ladet uns ein zu Euch zu kommen.</li>
+</ul>
 
-#### Unser persönliches Familienangebot
-Falls du das Arbeiten in der Gruppe nicht magst, einen anderen Urlaub als auf dem Ebbinghof suchst oder ganz individuell mit uns arbeiten möchtest dann können wir gerne als Familie zusammenarbeiten. Zusammen verbringen wir (mindestens) eine Woche Urlaub an einem gemeinsam ausgesuchten Ort in Europa. Durch das Zusammenleben unserer und deiner Familien geben wir euch neu Anregungen und Tips mit um die Coolnes in der Familie willkommen zu heißen. Viele kleine Einheiten zeigen dir neue Wege auf und können dann als Familie sofort gemeinsam ausprobiert und eingeübt werden.
+Auch was die Bezahlung angeht, wollen wir gerne neue Wege testen. Manche Familie hat viel Geld, andere haben andere Ressourcen (Selbstgemachtes, handwerkliche Fähigkeiten, eine Ferienwohnung). Wir stellen uns vor, dass wir die besten Lösungen im individuellen Austausch mit Dir und Euch zu finden.
 
-Unser Angebot ist kein festes Programm. Es ist eine auf dich und deine Familie zugeschnittene Begleitung die einen Prozess zu Familienträumen oder Familiencoolness anstösst und  begleitet. Egal ob du gerade erst eine Familie gegründet hast oder schon wie wir vier Kinder hast. Wir begleiten dich und deine Familie gerne hin zu einem neuen Familienmiteinander.
+<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank">Bei Interesse schreibt uns gerne.</a>
 
-<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank">Bitte kontaktiere uns zu einem persönlichen Gespräch.</a>
+Wir antworten so zeitnah wie es uns in unserem Familienalltag möglich ist, dass kann auch mal mehrere Tage dauern. Im Zuge der bewussten Priorisierung unserer Aufmerksamkeit gibt es auch längere Offlinephasen.

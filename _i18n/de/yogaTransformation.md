@@ -25,9 +25,9 @@ Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!)
 <br>~~Regulärer Preis pro Familie: 690,-€~~
 <br>Pionierpreis für die ersten Familien in 2020: 290,- €/Familie
 
-Für alleinreisende Eltern mit Kind/ern:
+<!-- Für alleinreisende Eltern mit Kind/ern:
 <br>~~Regulär 450,-€~~
-<br>Pionierpreis 2020: 190,- €/Familie
+<br>Pionierpreis 2020: 190,- €/Familie -->
 
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/urlaub-online-buchen/#/offer-list.php?c%5Bid_package%5D=90413" target="blank">Jetzt anmelden - 21. - 28. Juni 2020 im Familotel Ebbinghof</a>
 
@@ -44,9 +44,9 @@ Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!)
 <br>~~Regulärer Preis pro Familie: 690,-€~~
 <br>Pionierpreis für die ersten Familien in 2020: 290,- €/Familie
 
-Für alleinreisende Eltern mit Kind/ern:
+<!-- Für alleinreisende Eltern mit Kind/ern:
 <br>~~Regulär 450,-€~~
-<br>Pionierpreis 2020: 190,- €/Familie
+<br>Pionierpreis 2020: 190,- €/Familie -->
 
 <a class="waves-effect waves-light btn-large" href="https://www.familotel-ebbinghof.de/" target="blank">Jetzt anmelden - 13. - 20. September 2020 im Familotel Ebbinghof</a>
 

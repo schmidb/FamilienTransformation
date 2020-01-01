@@ -5,6 +5,7 @@
   {% else %}
 
   {% for post in site.posts %}
+  {% if post.show == true %}
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
@@ -19,6 +20,7 @@
       </div>
     </div>
   </div>
+  {% endif %}
   {% endfor %}
 
   {% endif %}

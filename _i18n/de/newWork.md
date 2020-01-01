@@ -4,11 +4,17 @@ New Work ist für uns ein Wandel der Perspektive auf unser heutiges Arbeiten. Wi
 ###### **Unsere persönliche Seite**
 Treibende Kraft für den Perspektivenwechsel ist oft ein Konflikt unseres Arbeitsalltags mit anderen Bereichen (z.B. Familie) oder Grundbedürfnissen unseres Lebens. Oft entsteht der Konflikt durch unbewusste Annahmen darüber wie gearbeitet werden muss und einem Gefühl in der aktuellen Situation keine andere Wahl zu haben.
 
-Ein erster Schritt ist die Betrachtung der Fragen "Warum arbeite ich wirklich? Was erfülle ich mir mit meiner Arbeit?". Um hier in die Tiefe und damit hinter die Kulissen zu kommen, hört die Antwort nicht mit dem ersten Impuls auf. In der Regel setzt sich die Antwort aus verschiedenen Faktoren zusammen. Meist finden sich darin versteckt nie hinterfragte Glaubenssätze, an denen verschiedene Emotionen hängen.
+Ein erster Schritt ist die Betrachtung der Fragen:
+<ul>
+  <li style="list-style-type:disc;">"Warum arbeite ich?"</li>
+  <li style="list-style-type:disc;">"Warum arbeite ich in diesem Job?"</li>
+  <li style="list-style-type:disc;">"Was erfülle ich mir mit meiner Arbeit?"</li>
+  <li style="list-style-type:disc;">"Was will ich *arbeiten*, womit will ich meine Zeit verbringen, wenn ich gänzlich frei von existenziellen Bedingungen bin?"</li>
+</ul>
 
-Im Zuge solch eines Konflikts zwischen Arbeitsalltag und Familie habe ich, Miriam, in meinem Leben vieles Neues gelernt: im Jahr 2009 hing für mich überraschend viel gesellschaftlicher Wert an der Aussage "ich arbeite das und das". Ich unterlag damals der Annahme, dass ich vor allem in beruflichen Umfeld unabhängig von äusserlichen Bewertungen bin. Tief in mir versteckt und unsichtbar habe ich einen bis dahin unbekannten Anteil entdeckt. Dieser hatte verinnerlicht, dass ich als emanzipierte Frau eine beruflich klassische Karriere machen muss, die mich unabhängig und erfolgreich macht, sonst bin ich in der Gesellschaft nichts wert. Dieser Teil ist mit massiven Ängsten über mich hereingebrochen, als ich entschieden habe, für unbestimmte Zeit nicht mehr klassisch zu arbeiten.
+Um hier in die Tiefe und damit hinter die Kulissen zu kommen, hört die Antwort nicht mit dem ersten Impuls auf. In der Regel setzt sich die Antwort aus verschiedenen Faktoren zusammen. Meist finden sich darin versteckt nie hinterfragte Glaubenssätze, an denen verschiedene Emotionen hängen.
 
-Es beginnt somit alles mit unserer Selbsterforschung und ermöglicht uns dann neue Wege zu gehen.
+Es beginnt alles mit unserer Selbsterforschung. Je mehr Klarheit ich über meine eigenen Motive und Begrenzungen habe, desto bewusster kann ich Entscheidungen für größere oder kleinere Änderungen treffen und ausprobieren.
 
 
 ###### **Unsere Arbeitsmodelle**

@@ -3,6 +3,7 @@ layout: post
 title:  Das sind wir - Miriam & Markus Schmidberger
 date:   2019-08-01
 image: assets/images/family.jpg
+show: true
 ---
 Offen und ehrlich teilen wir unseren Weg und unsere
 Transformationsprozesse von Kind zu Erwachsenen zu Eltern und zu authentischen

@@ -3,6 +3,7 @@ layout: post
 title:  Unser entspannter Kooperationspartner mit Raum zum Lernen
 date:   2019-11-24
 image: assets/images_ebbinghof/ebbinghof_2.jpg
+show: true
 ---
 <i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.</i> Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof
 

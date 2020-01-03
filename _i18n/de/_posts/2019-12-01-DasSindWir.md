@@ -4,10 +4,10 @@ title:  Das sind wir - Miriam & Markus Schmidberger
 date:   2019-12-01
 image: assets/images/family.jpg
 show: true
-description: Offen und ehrlich teilen wir unseren Weg und unsere Transformationsprozesse von Kind zu Erwachsenen zu Eltern und zu authentischen Menschen.
+description: Offen und ehrlich teilen wir unseren Weg und unsere Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.
 ---
 Offen und ehrlich teilen wir unseren Weg und unsere
-Transformationsprozesse von Kind zu Erwachsenen zu Eltern und zu authentischen
+Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen
 Menschen.
 
 ![Miriam&Markus](/assets/images/miri_markus.JPG){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
@@ -16,13 +16,13 @@ Menschen.
 Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als Paar aber auch mit unseren Kindern. Das klappt nicht jeden Tag. Auch wir machen Fehler und wollen daraus wieder lernen. Ein ehrlicher und konstruktiver Umgang miteinander als Paar und mit unseren Kindern hilft uns dabei.
 
 ## Lebensgeschichte Miriam
-Aufgewachsen bin ich als ältestes Kind von vier Geschwistern in einer bayrischen Grossfamilie und hab den klassischen Bildungsweg über Gymnasium, Studium der Informatik und Promotion beschritten.
+Aufgewachsen bin ich als ältestes Kind in einer sechsköpfigen bayrischen Grossfamilie und habe den klassischen Bildungsweg über Gymnasium, Studium der Informatik und Promotion beschritten.
 
-Meine treibende Kraft ist die Vision einer "Familie als Kooperationsgemeinschaft" in der Alle freiwillig zusammen leben und es für Alle angenehm ist. Dazu kommt der Traum, dass ich als Mutter von mehreren Kindern ein eigenes Leben habe (z.B. eigenen Job, eigene Reisen, ...) und dieser Teil von mir auch Raum bekommt.
+Meine treibende Kraft ist die Vision einer "Familie als Kooperationsgemeinschaft" in der alle freiwillig zusammen leben und es für alle angenehm ist. Dazu kommt der Traum, dass ich als Mutter von mehreren Kindern ein eigenes Leben habe (z.B. eigenen Job, eigene Reisen, ...) und dieser Teil von mir auch Raum bekommt.
 
-Hier sehe ich meine grösste Herausforderungen, da dies nicht dem klassischen Elternsein entspricht. Zusammen mit Markus musste ich auch feststellen, dass dies in einem klassischen Angestelltenverhältnis nicht funktioniert und ich habe 2014 aufgehört zu arbeiten.
+Hier sehe ich meine größte Herausforderung, da dies nicht dem klassischen Elternsein entspricht. Zusammen mit Markus musste ich auch feststellen, dass dies in einem klassischen Angestelltenverhältnis nicht funktioniert und so habe ich 2014 aufgehört zu arbeiten.
 
-Bis dahin konnte ich auch beruflich meinem grossem Interesse "Wie funktioniert der Mensch" nachgehen und daran forschen. Mein Spezialgebiet ist die Zusammenarbeit von Teams und Management in der Softwareentwicklung. Der entscheidende Faktor ist nicht die perfekte Methode sonder das menschliche Miteinander und wie die Menschen miteinander umgehen. Ein Softwareteam z.B. benötigt einen Scrummaster oder wie in der klassischen Familie eine "Mama" die das Zwischenmenschliche erkennt, spürt und stabilisiert. Wenn so eine Personen mit entsprechenden emphatischen Fähigkeiten nicht existiert funktioniert das Team nicht.
+Bis dahin konnte ich auch beruflich meinem großen Interesse "Wie funktioniert der Mensch" nachgehen und daran forschen. Mein Spezialgebiet ist die Zusammenarbeit von Teams und Management in der Softwareentwicklung. Der entscheidende Faktor ist nicht die perfekte Methode sonder das menschliche Miteinander und wie die Menschen miteinander umgehen. Ein Softwareteam z.B. benötigt einen Scrummaster oder wie in der klassischen Familie eine "Mama" die das Zwischenmenschliche erkennt, spürt und stabilisiert. Wenn so eine Personen mit entsprechenden emphatischen Fähigkeiten nicht existiert funktioniert das Team nicht.
 
 Das selbe habe ich auch für das eigene Leben entdeckt. Es gibt nicht die eine passende Methode für jede Familie. Jede Methode hat seinen eigenen Beitrag zu unserem Leben. Neue Methoden begeistern mich und gebe mir neue Impulse für mein eigenes Leben.
 

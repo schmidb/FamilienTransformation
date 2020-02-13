@@ -15,8 +15,10 @@ Menschen.
 
 Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als Paar wie auch mit unseren Kindern. Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen. Ein ehrlicher und konstruktiver Umgang miteinander als Paar und mit unseren Kindern hilft uns dabei.
 
-## Lebensgeschichte Miriam
-Aufgewachsen bin ich als ältestes Kind in einer sechsköpfigen bayrischen Großfamilie und habe den klassischen Bildungsweg über Gymnasium, Studium der Informatik und Promotion beschritten.
+## Miriam
+Aufgewachsen bin ich als ältestes Kind in einer sechsköpfigen bayrischen Großfamilie und habe den klassischen Bildungsweg über Gymnasium, Studium der Informatik und  begonnener und nicht beendeter Promotion beschritten.
+
+![Miriam](/assets/images/miri-yoga-2.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"}
 
 Meine treibende Kraft ist die Vision einer "Familie als Kooperationsgemeinschaft", in der alle freiwillig zusammen leben und es für alle angenehm ist. Dazu kommt der Traum, dass ich als Mutter von mehreren Kindern ein eigenes Leben habe (z.B. eigenen Job, eigene Reisen, ...) und dieser Teil von mir auch Raum bekommt.
 
@@ -29,10 +31,10 @@ Das gleiche habe ich auch für das eigene Leben entdeckt. Es gibt nicht die eine
 Eine große gemeinsame Familie als Kooperationsgemeinschaft und Raum für jedes Familienmitglied ist meine Vision. Ich und meine Familie sind weiterhin lernend und auf dem Weg dort hin.
 
 
-## Lebensgeschichte Markus
+## Markus
 Aufgewachsen bin ich als Einzelkind in einer bayrischen Kleinfamilie und habe den klassischen Bildungsweg über Gymnasium, Studium der Mathematik und Promotion erfolgreich gemeistert. Aus beruflicher Sicht leite ich heute eine große Software-Entwicklungsabteilung mit über 40 Mitarbeitern bei einer der führenden deutschen Onlineplattformen.
 
-![Markus](/assets/images/picture_schmidberger_2016.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+![Markus](/assets/images/markus_2016.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
 2002 habe ich Miriam kennen gelernt und sehr schnell erkannt, dass Miriam mir etwas gibt, was ich bisher nicht kannte. Mit unserer Hochzeit im März 2007 hat dann ein langer Prozess des Lernens und des Erforschens meiner selbst begonnen:
 <ul>

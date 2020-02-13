@@ -1,6 +1,6 @@
-So hast du noch nie entspannt und gelernt zugleich. Im [Familotel Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben. 
+So hast du noch nie entspannt und gelernt zugleich. Im [Familotel Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
 
-![Ebbinghof-Seminarraum](/assets/images_ebbinghof/ebbinghof-seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+![Ebbinghof-Seminarraum](/assets/images_ebbinghof/Familotel-Ebbinghof-Seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 In entspannter Urlaubsumgebung kannst du zusammen mit der ganzen Familie die Leichtigkeit in der Familie willkommen heißen. Viele kleine Einheiten zeigen dir neue Wege auf und können dann als Familie gemeinsam ausprobiert und eingeübt werden.
 
 #### Ablauf & Inhalte:

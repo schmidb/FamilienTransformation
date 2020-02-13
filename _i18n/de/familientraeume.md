@@ -1,6 +1,6 @@
 Spreche deine Träume aus und lebe sie. Im [Familotel Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} erwartet dich neben all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
 
-![Ebbinghof-Seminarraum](/assets/images_ebbinghof/ebbinghof-seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+![Ebbinghof-Seminarraum](/assets/images_ebbinghof/Familotel-Ebbinghof-Seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 In entspannter Urlaubsumgebung kannst du zusammen mit deiner ganzen Familie den Weg zu euren Familienträumen starten. Egal ob du deinen Traum schon kennst oder noch am Träumen bist. In sicherer und erholsamer Umgebung wirst du angeleitet, deinen Traum aufzuschreiben oder auszusprechen und erwachen zu lassen.
 
 Ein Traum kann ein Haustier sein, ein neuer Beruf eines Elternteiles, eine neue Wohnung, eine neue Art des Miteinanders, ein Sabbatical oder vielleicht sogar ein Auswandern oder Leben ohne Schule.

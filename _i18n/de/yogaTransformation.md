@@ -54,7 +54,7 @@ Seminarpaket (nur in Verbindung mit den Hotelleistungen des Ebbinghofs buchbar!)
 
 <br><br>
 #### Ablauf:
-![Ebbinghof-Seminarraum](/assets/images_ebbinghof/ebbinghof-seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"} Unsere ausgebildete Yoga-Lehrerin und 4-fache Mutter Miriam leitet die Yoga-Stunden und steht euch bei Fragen rundum Yoga in der Familie zur Seite. Die Yoga-Stunden sind so gestaltet, dass beide Eltern an den Kursen teilnehmen können. Die Kinder genießen während den Yoga-Stunden die Zeit in der Kinderbetreuung des Ebbinghofes
+![Ebbinghof-Seminarraum](/assets/images_ebbinghof/Familotel-Ebbinghof-Seminarraum.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"} Unsere ausgebildete Yoga-Lehrerin und 4-fache Mutter Miriam leitet die Yoga-Stunden und steht euch bei Fragen rundum Yoga in der Familie zur Seite. Die Yoga-Stunden sind so gestaltet, dass beide Eltern an den Kursen teilnehmen können. Die Kinder genießen während den Yoga-Stunden die Zeit in der Kinderbetreuung des Ebbinghofes
 
 Abgerundet wird die Familien-Yoga-Auszeit durch Lagerfeuerabend, Familienwanderung im Wald und vielen tollen weiteren und freiwilligen Aktivitäten. Dein Urlaub steht weiterhin im Vordergrund.
 

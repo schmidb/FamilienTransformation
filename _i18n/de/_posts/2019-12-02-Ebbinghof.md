@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unser entspannter Kooperationspartner mit Raum zum Lernen
-date:   2019-11-01
+date:   2019-08-01
 image: assets/images_ebbinghof/Familotel-Ebbinghof-Aussen.jpg
 show: true
 description: In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.

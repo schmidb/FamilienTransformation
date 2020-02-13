@@ -2,13 +2,13 @@
 layout: post
 title:  Unser entspannter Kooperationspartner mit Raum zum Lernen
 date:   2019-11-01
-image: assets/images_ebbinghof/ebbinghof_2.jpg
+image: assets/images_ebbinghof/Familotel-Ebbinghof-Aussen.jpg
 show: true
 description: In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.
 ---
 <i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln.</i> Daniela Trigges, Geschäftsführerin des Familotels Ebbinghof
 
-![Ebbinghof-Spielraum](/assets/images_ebbinghof/Familotel-Ebbinghof-0319_001.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"}
+![Ebbinghof-Spielraum](/assets/images_ebbinghof/Familotel-Ebbinghof-Spielflaeche.jpg){:class="materialboxed"}{:width="250"}{:style="float:left;margin-right:10px;"}
 
 Im April 2019 haben Miriam und Daniela sich auf Reisen in Österreich kennen
 gelernt. Die Kinder haben den Kontakt zwischeneinander hergestellt. Berührt vom authentischen miteinander von Miriam und Markus und zwischen Eltern und Kindern hat Daniela uns zu sich auf den [Ebbinghof](https://www.familotel-ebbinghof.de/){:target="blank"} eingeladen. In entspannter Urlaubsumgebung auf dem Ebbinghof haben wir mit Daniela unsere damalige Idee zu Familienseminaren geteilt und Realität werden lassen.
@@ -19,7 +19,7 @@ Während des Besuches auf dem Ebbinghof wurde uns klar, dass wir unsere Wege hin
 <i>In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann am besten wachsen und sich weiterentwickeln.</i>
 Mit Daniela Trigges, Geschäftsführerin des Familotels Ebgginhof haben wir eine Hotelchefin gefunden die selber Familienträume (Sabbatical) verwirklicht und neue Wege für Familien aufzeigt.
 
-![Ebbinghof-Schwimmbad](/assets/images_ebbinghof/Schwimmbad.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+![Ebbinghof-Schwimmbad](/assets/images_ebbinghof/Familotel-Ebbinghof-Schwimmbad.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
 <ul>
   <li style="list-style-type:disc;">Wo ist man entspannter als im Urlaub auf dem Ebbinghof mit all-Inclusive Premium, mit tollem Familien-, Kinder- und Elternprogramm in idyllischer Lage?</li>

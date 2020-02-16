@@ -3,19 +3,15 @@
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!-- <link rel="canonical" href="{{ site.url }}"> -->
-
-      <meta name="description" content="{% t page.description %}" />
-      <meta name="author" content="{{ site.name }}" />
 
       <link rel="stylesheet" type="text/css" href="{{ "/assets/css/materialize.css" | prepend: site.baseurl_root }}">
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
-      {% include google_analytics.html %}
-
-      {% capture temp1 %}{% t page.title %}{% endcapture %}
-      {% if temp1 != "" %}
+      {% if page.layout contains "post" %}
+      <title>{% t site.title %} - {{page.title }}</title>
+      <meta property=“og:title“ content="{% t site.title %} - {{page.title}}" />
+      {% elsif page.layout contains "portfolio" %}
       <title>{% t site.title %} - {% t page.title %}</title>
       <meta property=“og:title“ content="{% t site.title %} - {% t page.title %}" />
       {% else %}
@@ -23,23 +19,33 @@
       <meta property=“og:title“ content="{% t site.title %}" />
       {% endif %}
 
+      {% if page.layout contains "post" %}
+      <meta name="description" content="{{ page.description | strip_html }}" />
+      <meta property=“og:description“ content="{{ page.description | strip_html }}" />
+      <meta property=“og:url“ content="{{ site.url }}{{ page.url }}" />
+      <meta property=“og:image“ content="https://familien-transformation.de/assets/images/butterflies-small.jpg" />
+      {% else %}
       {% capture temp2 %}{% t page.description %}{% endcapture %}
+      <meta name="description" content="{{ temp2 | strip_html }}" />
       <meta property=“og:description“ content="{{ temp2 | strip_html }}" />
       <meta property=“og:url“ content="{{ site.url }}{{ page.url }}" />
       <meta property=“og:image“ content="https://familien-transformation.de/assets/images/butterflies-small.jpg" />
+      {% endif %}
+      <meta name="author" content="{{ site.name }}" />
 
       <!-- js for cookie message -->
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+      {% include google_analytics.html %}
+
     </head>
-
-
 
     <body>
 
-      <!-- script for cooke message -->
-      <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-      <script>
-      window.cookieconsent.initialise({
+    <!-- script for cooke message -->
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+    window.cookieconsent.initialise({
         "palette": {
           "popup": {
             "background": "#efefef",
@@ -57,5 +63,5 @@
             "dismiss": "{% t global.cookiebutton %}",
             "link": "{% t global.cookielink %}"
           }
-      });
-      </script>
+    });
+    </script>

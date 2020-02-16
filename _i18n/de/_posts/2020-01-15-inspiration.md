@@ -4,6 +4,7 @@ title:  Unsere Inspirationsquellen
 date:   2019-11-24
 image: assets/images/network.jpg
 show: false
+description: Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen.
 ---
 
 Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen. Nachfolgend eine wachsende und unsortierte Liste:

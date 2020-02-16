@@ -48,11 +48,11 @@ portfolio:
   project_three_url: yogaTransformation/
   project_three_image: assets/images/young-woman-mini.jpg
 
-  project_four: Your Journey to New Work
-  project_four_underline: Appointment and coaching on request
-  project_four_description: New Work is not a method but a company & lifestyle attitude. <br><br>At our seminars and coaching sessions, we show you how to achieve fulfilling and efficient work. We strive for a coexistence between work and private life.
-  project_four_url: newWork/
-  project_four_image: assets/images/grandmother-mini.jpg
+  project_four: Offerings in 2020
+  project_four_underline: Overview about all our offerings in 2020
+  project_four_description: Here you can find a list of all our offerings in 2020.
+  project_four_url: angebote2020/
+  project_four_image: assets/images/lago-federa.jpg
 
   project_five: Personal Family Coaching
   project_five_underline: Appointment and coaching on request
@@ -65,3 +65,9 @@ portfolio:
   project_six_description: Sometimes I wish for more than just reunion, wellness and vacation with my friends. A mixture of reunion, time for ratcheting, time for me, time for relaxation and body wellness and new impulses for my life, in order to give myself a completely refreshed and energized return to my everyday life.
   project_six_url: girlfriends_weekend/
   project_six_image: assets/images/girlfriends.jpg
+
+  project_seven: Your Journey to New Work
+  project_seven_underline: Appointment and coaching on request
+  project_seven_description: New Work is not a method but a company & lifestyle attitude. <br><br>At our seminars and coaching sessions, we show you how to achieve fulfilling and efficient work. We strive for a coexistence between work and private life.
+  project_seven_url: newWork/
+  project_seven_image: assets/images/grandmother-mini.jpg

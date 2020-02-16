@@ -48,11 +48,11 @@ portfolio:
   project_three_url: yogaTransformation/
   project_three_image: assets/images/young-woman-mini.jpg
 
-  project_four: Wege zu New Work
-  project_four_underline: Termin und Coaching auf Anfrage
-  project_four_description: New Work ist keine Methode sondern eine Firmen- & Lebenseinstellung. <br><br>Auf unseren Seminaren und Coachings zeigen wir Wege hin zu erfülltem und effizienten Arbeiten auf. Wir streben nach einem Miteinander zwischen Arbeit und privaten Leben.
-  project_four_url: newWork/
-  project_four_image: assets/images/grandmother-mini.jpg
+  project_four: Angebote in 2020
+  project_four_underline: Überblick all unserer Angebote in 2020
+  project_four_description: Hier findest du eine Auflistung all unserer Angebote in 2020.
+  project_four_url: angebote2020/
+  project_four_image: assets/images/lago-federa.jpg
 
   project_five: Persönliches Familien Coaching
   project_five_underline: Termin und Coaching auf Anfrage
@@ -65,3 +65,9 @@ portfolio:
   project_six_description: Manchmal wünsche ich mir mehr als nur Wiedersehen, Wellness und Urlaub mit meinen Freundinnen. Eine Mischung aus Wiedersehen, Zeit zum Ratschen, Zeit für mich, Zeit für Erholung und Körperwellness und neue Impulse für mein Leben, um mich wirklich rundum erfrischt und energetisiert in meinen Alltag zurückzubegeben.
   project_six_url: girlfriends_weekend/
   project_six_image: assets/images/girlfriends.jpg
+
+  project_seven: Wege zu New Work
+  project_seven_underline: Termin und Coaching auf Anfrage
+  project_seven_description: New Work ist keine Methode sondern eine Firmen- & Lebenseinstellung. <br><br>Auf unseren Seminaren und Coachings zeigen wir Wege hin zu erfülltem und effizienten Arbeiten auf. Wir streben nach einem Miteinander zwischen Arbeit und privaten Leben.
+  project_seven_url: newWork/
+  project_seven_image: assets/images/grandmother-mini.jpg

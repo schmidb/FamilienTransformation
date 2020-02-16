@@ -15,6 +15,7 @@ pages:
   contacttitle: Contact Us
   mindsettitle: Our Mindset & Philosophy
   imprint: Imprint
+  error: Error page
 
 contact:
   title: Contact Form

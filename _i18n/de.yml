@@ -15,6 +15,7 @@ pages:
   contacttitle: Kontakt zu Uns
   mindsettitle: Unsere Denkweise & Philosophie
   imprint: Impressum
+  error: Error page
 
 contact:
   title: Kontakt Formular

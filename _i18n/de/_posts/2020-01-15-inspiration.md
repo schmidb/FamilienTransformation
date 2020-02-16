@@ -13,7 +13,7 @@ Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrun
 #### Körperzentrierte Herzensarbeit nach Safi Nidiaye
 ![Gefühle sind zum Fühlen da](https://medias.librinet.de/dl/debec40e-9b0a-4744-bb25-a2502e3447c5/2/72677){:height="150"}{:style="float:left;margin-right:10px;"}
 
-Wir haben verschiedene Bücher von [Sefi Nidiaye](http://www.herzensarbeit.de/){:target="blank"} gelesen und Einzelsitzungen bei Frau Gebauer, [Gesundheitszentrum am Rosenkavalierplatz in München](http://www.ghz-roka.de/){:target="blank"} und [Wiebke Pausch](https://www.wiebkepausch.com/){:target="blank"} besucht.
+Wir haben verschiedene Bücher von [Safi Nidiaye](http://www.herzensarbeit.de/){:target="blank"} gelesen und Einzelsitzungen bei Frau Gebauer, [Gesundheitszentrum am Rosenkavalierplatz in München](http://www.ghz-roka.de/){:target="blank"} und [Wiebke Pausch](https://www.wiebkepausch.com/){:target="blank"} besucht.
 
 Buchempfehlung: [Gefühle sind zum Fühlen da
 Das Handbuch vom positiven Umgang mit negativen Emotionen](https://www.buch7.de/produkt/gefuehle-sind-zum-fuehlen-da-safi-nidiaye/1029648506?ean=9783778792780){:target="blank"}
@@ -89,6 +89,7 @@ Viele verschiedene Blogs geben uns immer wieder Ansporn zum Nachdenken und refle
   <li style="list-style-type:disc;"><a href="http://www.celebrate-being.com/" target="blank">Katharina Walter</a></li>
   <li style="list-style-type:disc;"><a href="http://www.diesundancefamily.com/" target="blank">Sundance Family</a></li>
   <li style="list-style-type:disc;"><a href="https://derkompass.org/" target="blank">Ruth mit Der Kompass</a></li>
+  
 </ul>
 
 <br>

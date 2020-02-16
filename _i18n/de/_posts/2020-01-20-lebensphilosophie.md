@@ -15,7 +15,7 @@ Dein Thema ist noch nicht dabei? Dann schreib uns bitte eine Email.
 
     <div class="card">
       <div class="container">
-        <span class="card-title">Transformationsprozesse fühlen sich nicht leicht an - oder was ist Transformations?</span><i>geschrieben von Markus</i>
+        <span class="card-title">Transformationsprozesse fühlen sich nicht leicht an - oder was ist Transformations?</span><i>geschrieben von Miriam</i>
         <p>
         Transformation geschieht über Wandel in mir. Um den Wandlungsprozess zu starten stelle ich meine Überzeugungen in Frage. Ich lasse Neues und damit für mich Unbekanntes an mich heran und hinein.
         </p>

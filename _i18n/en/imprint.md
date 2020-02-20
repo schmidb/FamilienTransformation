@@ -4,7 +4,7 @@ Maximilianstrasse 43<br />
 13187 Berlin
 
 #### Contact
-E-Mail: familientransformation@gmail.com
+E-Mail: {{site.email}}
 
 #### Content responsebility
 Miriam &amp; Markus Schmidberger

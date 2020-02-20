@@ -12,7 +12,7 @@ Das Grundpaket für 225 Euro pro Person zzgl. Übernachtungs- und Verpflegungsko
 Das Thema der Samstagseinheit ist individuell anpassbar.
 Außerdem gibt es die Möglichkeit für Samstag noch eine Nachmittagsession zur Unterstützung für konkrete Anliegen wie aktuelle Fragen, Herausforderungen, Träume, Visionen zu buchen (75 Euro p.P) und Samstag Abend eine Session zur wohltuenden Wirkung von absichtsloser Berührung (50 Euro p.P.) dazu zu buchen.
 
-<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank">Bei Interesse schreibt mir gerne.</a>
+<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt mir gerne.</a>
 
 <br><br>
 ###### *Hinweise:*

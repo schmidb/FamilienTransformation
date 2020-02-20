@@ -13,6 +13,6 @@ Erste Ideen unsererseits sind ganz unterschiedlicher Art:
 
 Auch was die Bezahlung angeht, wollen wir gerne neue Wege testen. Manche Familie hat viel Geld, andere haben andere Ressourcen (Selbstgemachtes, handwerkliche Fähigkeiten, eine Ferienwohnung). Wir stellen uns vor, dass wir die besten Lösungen im individuellen Austausch mit Dir und Euch finden.
 
-<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank">Bei Interesse schreibt uns gerne.</a>
+<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt uns gerne.</a>
 
 Wir antworten so zeitnah wie es uns in unserem Familienalltag möglich ist, das kann auch mal mehrere Tage dauern. Im Zuge der bewussten Priorisierung unserer Aufmerksamkeit gibt es auch längere Offlinephasen.

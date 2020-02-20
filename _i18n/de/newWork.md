@@ -48,20 +48,4 @@ Im Laufe der Einführung von New Work entwickelt sich der Prozess oft auch weite
 
 Unser Angebot "Wege zu New Work" ist kein festes Programm. Es ist eine auf dich oder deine Firma zugeschnittene Begleitung die einen Prozess zu einem Kulturwandel anstösst und  begleitet. Egal ob du gerade erste über New Work gelesen hast oder schon erste New Work Ansätze bei dir in der Firma hast. Wir begleiten dich gerne hin zu einer neuen Firmen- & Lebenseinstellung
 
-<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank">Bitte kontaktiere uns zu einem Gespräch für deinen New Work Weg.</a>
-
-<!--
-New work is a change in perspective:
-
-Going from the need of a balance between work and life to living work as well as life.
-It is a process from the inside out.
-
-At the moment on a dual basis it seems that work in the one side and life the other
-
-New work means the process in which  you hold the tension of seeing life and work as one.
-
-By doing this you will experience extreme emotions since unifyi two seemingly contrary poles feels at least challenging if not impossible.
-
-But in this space lays possibility
-
--->
+<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bitte kontaktiere uns zu einem Gespräch für deinen New Work Weg.</a>

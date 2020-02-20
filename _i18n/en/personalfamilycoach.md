@@ -13,6 +13,6 @@ Our first ideas are of very different types:
 
 We would also like to test new ways in terms of payment. Some families have a lot of money, others have other resources (self-made, manual skills, a holiday apartment). We imagine that we can find the best solutions in individual exchange with you and you.
 
-<a class="waves-effect waves-light btn-large" href="mailto:familientransformation@gmail.com" target="blank"> If you are interested, please write to us. </a>
+<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank"> If you are interested, please write to us. </a>
 
 We respond as promptly as we can in our everyday family life, which can sometimes take several days. In the course of consciously prioritizing our attention, there are also longer offline phases.

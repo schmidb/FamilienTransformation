@@ -1,8 +1,8 @@
 # Documentation for Familien-Transformation Webpage
 
-URL: https://schmidb.github.io/InsideOutTransformation/
+URL: https://schmidb.github.io/FamilienTransformation/
 
-URL public: https://www.familientransformation.de
+URL public: https://www.familien-transformation.de
 
 Contact: familientransformation @ gmail.com
 

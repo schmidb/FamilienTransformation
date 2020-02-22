@@ -4,7 +4,7 @@ URL: https://schmidb.github.io/FamilienTransformation/
 
 URL public: https://www.familien-transformation.de
 
-Contact: familientransformation @ gmail.com
+Contact: trafo @ posteo.net
 
 ## Technology
 Website is rendered by [Jekyll](https://jekyllrb.com/).
@@ -17,7 +17,7 @@ Website is rendered by [Jekyll](https://jekyllrb.com/).
 ### Multilanguage
 * via https://github.com/kurtsson/jekyll-multiple-languages-plugin Plugin
 * Guidance
-  * tbd
+  * create i18n subfolder with de and en content
 
 ### Plugins
 * using Jekyll plugin for multi-language: https://github.com/kurtsson/jekyll-multiple-languages-plugin
@@ -29,17 +29,16 @@ Website is rendered by [Jekyll](https://jekyllrb.com/).
   * run "bundle exec jekyll build -d docs"
   * and upload docs folder to github as well
   * configure github.io to use docs folder from master branch
+* to install everything
+  * "bundle install"
+  * "bundle update" for updates
 
 ### Ideas for network graph
 * https://visjs.org/ for visualisation on webseite
 * https://gephi.org/ for rendering & developing graph
 
-
-
 ## Pictures
 Pictures from https://pixabay.com/de/
-
-
 
 ## Law content
 cookie: https://www.osano.com/cookieconsent/download/
@@ -47,3 +46,6 @@ imprint: https://www.e-recht24.de
 
 ## google search - SEO - tuning
 https://search.google.com/search-console
+
+## domain
+* registered via AWS

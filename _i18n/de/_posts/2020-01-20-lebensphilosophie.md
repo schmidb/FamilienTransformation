@@ -37,7 +37,7 @@ Dein Thema ist noch nicht dabei? Dann schreib uns bitte eine Email.
         Um die negativen Gefühle so zu fühlen, dass sie uns nicht mehr in Abhängigkeit gefangen halten, gibt es viele Wege. Den oder die Besten für sich, kann man nur durch ausprobieren finden.
         </p>
         <p>
-        Uns hat bei dem Weg dahin unter anderem Mike Helwig mit radikaler Erlaubnis, Safi Nidiaye und Frau Gebauer mit körperzentrierter Herzensarbeit, Simone Frese mit Kinesiologie, Brad Blanton und Tulia Syvänen mit radikaler Ehrlichkeit geholfen.
+        Uns hat bei dem Weg dahin unter anderem Mike Helwig mit radikaler Erlaubnis, Safi Nidiaye und Frau Gebauer mit körperzentrierter Herzensarbeit, Simone Frese mit Kinesiologie, Brad Blanton und Tulia Syvänen mit radikaler Ehrlichkeit geholfen. Hier findest du mehr zu unseren <a href="/2019/11/24/inspiration/">Inspirationen</a>.
         </p>
         <br>
       </div>
@@ -84,7 +84,18 @@ Dein Thema ist noch nicht dabei? Dann schreib uns bitte eine Email.
   <div class="card">
     <div class="container">
       <span class="card-title">Mobbing</span>
-      <p>bald mehr
+      <i>geschrieben von Miriam</i>
+      <p>
+      Mobbing-Opfer haben Zweifel was ihren eigenen Wert betrifft und geben dem Außen die Macht die Frage nach ihrem Wert zu beantworten. Gleichzeitig ist da eine Ahnung, dass ihre Wertlosigkeit nicht stimmt. Das führt zu einem verzweifelten Konflikt im Mobbing-Opfer, der im schlimmsten Fall zum Selbstmord führen kann.
+      </p>
+      <p>
+      Der (Mobbing) Täter hat auch Zweifel an seinem Wert, holt sich aber die Antwort ebenfalls von Außen (und damit genauso wertlos). Im Unterschied zum Opfer allerdings geschieht dies proaktiv durch die Erniedrigung anderer. Die möglichen Opfer erkennt er intuitiv, da sie beide (Opfer und Täter) durch die Zweifel an ihrem Wert verbunden sind. Im Gegensatz zum Opfer scheut der Täter aber nicht zurück anderen Leid zuzufügen, um seine Zweifel zu beseitigen. Das eine ist ein aktiver und das andere ein passiver Schatten nach dem <a href="/2019/11/24/inspiration/">"Schattenprinzip" von Rüdiger Dahlke</a>.
+      </p>
+      <p>
+      Mobbing Opfer und Täter müssen die volle Selbstverantwortung für Ihre Wertlosigkeit übernehmen um aus dem Mobbingprozess raus zu kommen. Die Erkenntnis das ein Außenurteil den eigenen Urwert bestimmt ist einer der ersten Schritte. Uns hat bei dem Weg unter anderem Mike Helwig mit radikaler Erlaubnis und Safi Nidiaye und Frau Gebauer mit körperzentrierter Herzensarbeit geholfen. Hier findest du mehr zu unseren <a href="/2019/11/24/inspiration/">Inspirationen</a>.
+      </p>
+      <p>
+      Auch Partner von Mobbingopfer und -tätern stecken ebenfalls in einer großen Herausforderung. Ständig wird von Ihnen eingefordert dem Mobbingopfer / -tätern von aussen Wert zu geben. Sie verursachen dadurch mehr Zweifel zur Wertlosigkeit und / oder leiden unter dem Druck des Mobbingtäters. Oftmals können die Partner nur durch Distanz den Wertezweifeln der Mobbingopfer / -täter entkommen.
       </p>
       <br>
     </div>

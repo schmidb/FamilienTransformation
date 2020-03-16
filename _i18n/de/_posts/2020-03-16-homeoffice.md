@@ -1,0 +1,25 @@
+---
+layout: post
+title: Leben und Arbeiten mit Kindern - Home Office
+date:   2020-03-16
+image: assets/images/laptop-blaetter.jpg
+show: true
+description: Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
+---
+
+Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
+Das Wichtigste ist die eigene innere Haltung: KINDER VOR ARBEIT.
+(Für die ITler: Im gleichen Sinne wie das Agile Manifest sagt “Individualls and interaction over processes and tools”.) Das heißt Beides ist wichtig, aber die Kinder sind wichtiger.
+
+Möglicherweise löst das schon Widerstand (“Halt - ohne meine Arbeit können wir aber unser Leben nicht finanzieren.” o. ä.), Verzweiflung (“Wie soll das gehen, da schaffe ich meine Arbeit ja nie.” o. ä.) oder ein Gefühl von Unmöglichkeit aus.
+Dann nimm Dir jetzt eine Tasse Tee oder ein Glas Wasser und Zeit den Gedanken zu lauschen, vielleicht sie aufzuschreiben, und gleichzeitig Deine Gefühle zu beobachten. Nimm Dich selbst ernst und mache Dir gleichzeitig bewusst, dass Du mehr bist und kannst. Konzentriere Dich auf Deinen Atem und erinnere Dich an all die Herausforderungen, die Du schon gemeistert hast.
+Genau das ist hier auch: eine Herausforderung mit einer großen Chance die Bindung zwischen Dir und Deinen Kindern zu stärken.
+
+Ein erster praktischer Trick ist am Arbeitsplatz, die Dir wichtig erscheinenden Informationen oder etwas, was Du neue ausprobieren möchtest, gut sichtbar zu machen. Z. B. einen Zettel mit “KINDER VOR ARBEIT” zentral ins Blickfeld kleben.
+
+Für alles Weitere ist die Voraussetzung das Alter und die individuellen Fähigkeiten der Kinder zu beachten. Grob unterteilen wir in Kinder unter 6 und Kinder ab 6.
+Die beschriebenen Prozesse sind langfristige Maßnahmen, die anfangs scheinbar sehr viel Zeit, Energie und Aufmerksamkeit fordern, sich aber unserer Erfahrung nach auszahlen, indem sie sowohl die innerfamiliäre Bindung stärken als auch tatsächlich Raum zum stressfreien Arbeiten von zu Hause mit den anwesenden Kindern schaffen.
+
+Geht es bei Dir nur um wenige Ausnahmen und Du hast kein langfristiges Interesse an Arbeiten von zu Hause (oder auch einfach Zeit für eigene Projekte mit Kindern zu Hause), dann kannst Du Dir auch mit Tricks wie Lieblingsfilm anschauen, Hörspiele hören, Babysitter organisieren, zu Schlafenszeiten arbeiten, mit besonderem Essen beschäftigen oder ähnliches behelfen.
+
+Teil 2: “Homeoffice mit Kindern unter 6” (kommt bald) beschreibt unseren Prozess wie es möglich ist, den Kinderbedürfnissen immer Vorrang zu geben und trotzdem arbeiten zu können. Dazu gehören zwei Teile: Zum Einen das achtsame Beobachten der kindlichen Bedürfnisse und das Schaffen einer dauerhaften eigenen stressfreien und entspannten Grundhaltung.

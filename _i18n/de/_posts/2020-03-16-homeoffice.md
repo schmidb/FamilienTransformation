@@ -29,15 +29,41 @@ Die beschriebenen Prozesse sind langfristige Maßnahmen, die anfangs scheinbar s
 **Kurzfristige Lösung vs. langfristige Veränderung**<br>
 Geht es bei Dir nur um wenige Ausnahmen, wie z.B. nur 2 oder 3 Tage, und Du hast kein langfristiges Interesse an Arbeiten von zu Hause (oder auch einfach Zeit für eigene Projekte mit Kindern zu Hause), dann kannst Du Dir auch mit Tricks wie Lieblingsfilm anschauen, Hörspiele hören, Babysitter organisieren, zu Schlafenszeiten arbeiten, mit besonderem Essen beschäftigen oder ähnliches behelfen.
 
-Und noch ein Hinweis für Leser aus der Softwareentwicklung oder IT-Branche: Unser Ansatz ist im gleichen Sinne wie das [Agile Manifest](https://agilemanifesto.org/) sagt “Individualls and interaction over processes and tools”.
+Und noch ein Hinweis für Leser aus der Softwareentwicklung oder IT-Branche: Unser Ansatz ist im gleichen Sinne wie das [Agile Manifest](https://agilemanifesto.org/){:target="blank"} sagt “Individualls and interaction over processes and tools”.
 
 
 #### Homeoffice mit Kindern unter 6 Jahre
+“Homeoffice mit Kindern unter 6” beschreibt unseren Prozess wie es möglich ist, den Kinderbedürfnissen immer Vorrang zu geben und trotzdem arbeiten zu können. Dazu gehören zwei Teile: Zum Einen das achtsame Beobachten der kindlichen Bedürfnisse und das Schaffen einer dauerhaften eigenen stressfreien und entspannten Grundhaltung.
 
-![Stress Barometer](/assets/images/stressbaro.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+**Warum brauche ich eine stressfreie und entspannte Grundhaltung**<br>
+Stress überträgt sich immer auf meine Umgebung. Ganz besonders auf unsere Kinder, da sie in einer Abhängigkeit zu uns leben. Durch unseren Stress geraten die Kinder unter Druck mit dem jedes Kind individuell umgeht. Beispiele für Verhalten unter Druck sind:
+<ul>
+  <li style="list-style-type:disc;">Widerstand: nichts ist mehr richtig und es gibt keine Kooperationsbereitschaft mehr</li>
+  <li style="list-style-type:disc;">Unfälle: das volle Glas kippt um, das Kind macht in die Hose, tut sich weh, ...</li>
+  <li style="list-style-type:disc;">Angst/Unsicherheit: auf einmal kann das Kind nicht mehr selbst sich anziehen, essen, aufs Klo gehen, ...</li>
+  <li style="list-style-type:disc;">Aufmerksamkeit einfordern durch "ist das Bild schön?", "ist die Knete so richtig?", "die Knetfigur will nicht gelingen", ... </li>
+  <li style="list-style-type:disc;">Krankheit: der Bauch tut weh, Durchfall, Läuse, ...</li>
+</ul>
+Bin ich entspannt, dann kann sich auch mein Kind entspannen.
 
-Teil 2: “Homeoffice mit Kindern unter 6” (kommt bald) beschreibt unseren Prozess wie es möglich ist, den Kinderbedürfnissen immer Vorrang zu geben und trotzdem arbeiten zu können. Dazu gehören zwei Teile: Zum Einen das achtsame Beobachten der kindlichen Bedürfnisse und das Schaffen einer dauerhaften eigenen stressfreien und entspannten Grundhaltung.
+**Wie merke ich ob ich schon gestresst bin?**<br>
+![Stressbarometer](/assets/images/stressbaro.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+Bei den [TransParents Workshops](http://www.transparents.net){:target="blank"} wir ein Stressbarometer vorgeschlagen um deinen Stresslevel auf einer Skala von 0-10 zu visualisieren. 0 bedeutet entspannt, 10 maximaler Stress. Anfangs braucht die Nutzung des Barometers viel Übung. Wir haben bei uns festgestellt, dass eine regelmäßige Erinnerung und ein Ritual hilfreich ist. z.B. alle 30 min die Augen schließen, 5 Atemzüge nur den Atem beobachten und dann den Stresslevel bestimmen. Heute hängt bei uns das Stressbarometer in der Küche an einem Whiteboard und bei jeder Mahlzeit fällt es uns wieder ins Auge und ich bestimme meinen aktuellen Stresslevel.
 
+Wir haben bei uns auch beobachtet, dass anfangs unsere eigene Einschätzung des Stress häufig niedriger ausgefallen ist als er tatsächlich war.
+
+**Wie kann ich feststellen, dass ich mich selbst täusche?**<br>
+Am einfachsten durch Feedback von außen. In diesem Fall durch das Verhalten meiner Kinder. Zeigen sie schon Verhaltensweisen, die ich ihn angespannten Situationen bei ihnen beobachtet habe, kann ich mir sicher sein, dass mein Stresslevel +3 ist.
+
+Die Empfehlung bei TransParents ist **bei 8 oder höher alles abzubrechen**, sich auf den Boden zu setzen und sich voll dem Rauskommen aus dem Stress zu widmen. In dem Fall den eigenen Stresslevel den Kindern gegenüber zu kommunizieren ist sehr hilfreich. Die Kinder verstehen dann wieso eine Aktion gerade abgebrochen wird und das Hinsetzen der Kinder auf den Boden und neben das Elternteil ist auch für die Kinder sofort entspannend.
+
+
+**Wozu dient achtsames Beobachten der kindlichen Bedürfnisse**<br>
+Neben der eigenen stressfreien und entspannten Grundhaltung ist das achtsame Beobachten der kindlichen Bedürfnisse ein sehr wichtiger Punkt. Fühlt sich mein Kind wohl und sicher kann es entspannt seinen eigenen Interessen nachgehen und ich habe Raum zum z.B. Arbeiten.
+
+D.h. ich beobachte über den Tag wann und in welchen Situationen zeigt mein Kind durch sein Verhalten, dass es etwas braucht. Dabei kann ich z.B. feststellen, dass direkt nach dem Frühstück mein Kind sehr entspannt ist und anfängt selbst zu spielen. Hier ist dann Freiraum, den ich direkt zum Arbeiten nutze. Dann stelle ich fest (je nach Alter und Typ sehr unterschiedlich), dass mein Kind nach 30 Minuten anfängt mit mir in Kontakt zu treten. Ein Beispiel dafür ist z.B. das es auf das Klo muss und nicht allein gehen will oder zu vielen Teilen meines Spiels meine Meinung will. In dem Fall unterbreche ich meine Arbeit und widme mich meinem Kind. Vielleicht können wir spielerisch mit Priorität auf dem gemeinsamen Zeit Aspekt das Frühstück aufräumen. Dann weiß ich aus vergangenen Erfahrungen, dass z.B. Vorlesen jetzt gut tut und lese ein Buch vor. Daraus entsteht für das Kind wieder ein eigenständiges Spiel und ich kann wieder zurück an meine Arbeit.
+
+Je nachdem wie ausgehungert mein Kind nach meiner Aufmerksamkeit ist, kann es einige Zeit dauern bis es fühlt, dass meine Grundhaltung "Kind vor Arbeit" ist und von mir gesehen und beachtet wird. Wenn du dich auf den Prozess aus Aufmerksamkeit schenken, Versorgen und dann Arbeiten einlässt kannst du im Home Office eine sehr wohlige Atmosphäre eines Miteinanders mit Kindern entwickeln. Dies ist kein einfacher und kein kurzfristiger Prozess und Anfangs wird es oft nicht klappen oder das Frühstück bleibt den ganzen Tag am Tisch stehen.
 
 #### Homeoffice mit Kindern über 6 Jahre
 (daran arbeiten wir gerade)

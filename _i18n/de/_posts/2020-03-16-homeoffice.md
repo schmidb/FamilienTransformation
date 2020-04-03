@@ -63,4 +63,20 @@ D.h. ich beobachte über den Tag wann und in welchen Situationen zeigt mein Kind
 Je nachdem wie ausgehungert mein Kind nach meiner Aufmerksamkeit ist, kann es einige Zeit dauern bis es fühlt, dass meine Grundhaltung "Kind vor Arbeit" ist und von mir gesehen und beachtet wird. Wenn du dich auf den Prozess aus Aufmerksamkeit schenken, Versorgen und dann Arbeiten einlässt kannst du im Home Office eine sehr wohlige Atmosphäre eines Miteinanders mit Kindern entwickeln. Dies ist kein einfacher und kein kurzfristiger Prozess und Anfangs wird es oft nicht klappen oder das Frühstück bleibt den ganzen Tag am Tisch stehen.
 
 #### Homeoffice mit Kindern über 6 Jahre
-(daran arbeiten wir gerade)
+Mit Kindern ab 6 Jahren ist es möglich Absprachen und gemeinsame Entscheidungen zu treffen. Absprachen heißt nicht, dass der arbeitende Erwachsene vorgibt wie der Tag läuft. Eine Absprache ist ein Austausch zwischen allen Beteiligten (Kinder, Mutter, Vater, Oma, alle im Haushalt lebenden Personen), an dessen Ende ein Ergebnis steht, dem Alle zustimmen können.
+
+Dabei ist wichtig zu beachten, je jünger das Kinder desto kürzer der Zeitraum für den eine Absprache geplant wird. Für uns hat es sich als förderlich gezeigt, uns als Eltern vorher klar zu machen, was uns wirklich wichtig ist und wo wir flexibel sein können. Zusätzlich hilft es uns Eltern, uns vorab klar zu machen wie die Gefühle zu Terminen sind:
+<ul>
+  <li style="list-style-type:disc;">Bin ich angespannt, da ich einen wichtigen Termin mit dem einem potentiellen Kunden habe und dessen Zusage sich direkt auf meinen Bonus auswirkt?
+  </li>
+  <li style="list-style-type:disc;">Bin ich entspannt da mein wöchentliches Meeting mit meinen Kollegen ansteht?
+  </li>
+</ul>
+Stelle ich dabei fest, dass an diesem Tag ein Termin dabei ist wo ich mit unter (fast) keinen Umständen vorstellen kann "Kinder vor Arbeit" zu leben, muss ich sicherstellen, dass meine Kinder in der Zeit anderweitig gut versorgt sind: Babysitter, Partner, Großeltern, Freunde, Film, ... .
+
+Das Einhalten der Absprache und eine klare Kommunikation auf Augenhöhe ist dabei einer der Schlüssel zum Erfolg. Einhalten der Absprache bedeutet, dass ich, wenn ich gesagt habe, dass ich um 12 Uhr fertig bin, um 12 Uhr fertig bin und nicht um 5 nach 12 oder später.
+
+Für uns hat sich der gemeinsame Frühstückstisch als guter Ort und Zeitpunkt für Absprachen herausgestellt. Es ist wichtig, dass Absprachen und damit zusammenhängende Pläne z.B. beim Mittagstisch nochmals besprochen werden.
+
+#### Zusammenfassung
+Langfristiges Arbeiten von zu Hause mit Kindern ist keine leichte Aufgabe. Dies benötigt viel achtsames Beobachten der kindlichen Bedürfnisse und das Schaffen einer dauerhaften eigenen stressfreien und entspannten Grundhaltung der Eltern. Auch bei uns kommt es immer wieder zu Konflikten da sehr schnell "Kinder vor Arbeit" verloren geht. Wichtig ist dann ein liebevoller Umgang mit sich selber und mit den Kindern.

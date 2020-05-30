@@ -4,6 +4,7 @@ title:  Unsere Inspirationsquellen
 date:   2019-11-24
 image: assets/images/network.jpg
 show: true
+permalink: inspiration
 description: Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen.
 ---
 
@@ -89,7 +90,7 @@ Viele verschiedene Blogs geben uns immer wieder Ansporn zum Nachdenken und refle
   <li style="list-style-type:disc;"><a href="http://www.celebrate-being.com/" target="blank">Katharina Walter</a></li>
   <li style="list-style-type:disc;"><a href="http://www.diesundancefamily.com/" target="blank">Sundance Family</a></li>
   <li style="list-style-type:disc;"><a href="https://derkompass.org/" target="blank">Ruth mit Der Kompass</a></li>
-  
+
 </ul>
 
 <br>

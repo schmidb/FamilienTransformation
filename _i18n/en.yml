@@ -14,6 +14,7 @@ pages:
   portfoliotitle: Our Transformation Portfolio
   contacttitle: Contact Us
   mindsettitle: Our Mindset & Philosophy
+  impressiontitle: Impressions for Transformation
   imprint: Imprint for Family Transformation
   error: Error page
 
@@ -27,7 +28,15 @@ contact:
 footer:
   copy: 2020 Copyright
   imprint: Imprint
-  allrights: All rights reserved
+  allrights: all rights reserved
+
+impression:
+  archive:
+    title: Archive for Impressions for Transformation
+    description: Archive and collecation of posts for impressions for personal transformation.
+  before: Previous post
+  next: Next post
+  footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen.
 
 portfolio:
   project_one: Family Dreams Seminar

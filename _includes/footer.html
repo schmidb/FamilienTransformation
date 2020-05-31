@@ -6,7 +6,9 @@
 </body>
 <footer class="page-footer">
   <div class="footer-copyright" style="padding-left: 30px">
-    <i class="material-icons" style="padding-right:5px">copyright</i><p>{% t footer.copy %} {{ site.name }} | <a href="{{ site.baseurl }}/imprint/">{% t footer.imprint %}</a> | {% t footer.allrights %}</p>
+        <i class="material-icons" style="padding-right:5px">copyright</i>
+        <p>{% t footer.copy %} {{ site.name }}, {% t footer.allrights %} </p>
+        <p> | <a href="{{ site.baseurl }}/imprint/"> {% t footer.imprint %} </a> | <a href="{{ site.baseurl }}/sitemap.xml"> sitemap.xml </a> | <a href="{{ site.baseurl }}/feed/impression.xml"> feed.xml </a></p>
   </div>
 </footer>
 </html>

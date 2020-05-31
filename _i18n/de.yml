@@ -28,7 +28,15 @@ contact:
 footer:
   copy: Copyright 2020,
   imprint: Impressum
-  allrights: Alle Rechte vorbehalten
+  allrights: alle Rechte vorbehalten
+
+impression:
+  archive:
+    title: Archive von Impressionen zur Transformation
+    description: Archive und Sammlung von Beiträgen für Impressionen zur persönlichen Transformation
+  before: Vorheriger Post
+  next: Nächster Post
+  footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen.
 
 portfolio:
   project_one: Familien-Träume Seminar

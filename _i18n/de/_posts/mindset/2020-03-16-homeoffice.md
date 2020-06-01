@@ -4,6 +4,7 @@ title: Leben und Arbeiten mit Kindern - Home Office
 date:   2020-03-16
 image: assets/images/laptop-blaetter.jpg
 show: true
+category: mindset
 description: Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
 ---
 

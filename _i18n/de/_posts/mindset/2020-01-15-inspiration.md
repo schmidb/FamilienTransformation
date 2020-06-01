@@ -5,6 +5,7 @@ date:   2019-11-24
 image: assets/images/network.jpg
 show: true
 permalink: inspiration
+category: mindset
 description: Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen.
 ---
 

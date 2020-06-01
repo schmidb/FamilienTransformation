@@ -4,6 +4,7 @@ title:  Unsere Lebensphilosophie
 date:   2019-11-01
 image: assets/images/north.jpg
 show: true
+category: mindset
 description: Hier findest du Inspirationen und Antworten auf einige deiner Fragen zu unseren Ansätzen, Vorgehensweisen und Lebensphilosophien. Dies ist eine unsortierte Liste von vielen Themen aus unseren letzen Jahren als Familie und Ehepaar.
 ---
 Hier findest du Inspirationen und Antworten auf einige deiner Fragen zu unseren Ansätzen, Vorgehensweisen und Lebensphilosophien. Dies ist eine unsortierte Liste von vielen Themen aus unseren letzen Jahren als Familie und Ehepaar.

@@ -18,6 +18,12 @@ pages:
   imprint: Impressum für Familien Transformation
   error: Error page
 
+nav:
+  portfolio: Portfolio
+  mindset: Denkweise
+  impression: Impressionen
+  contact: Kontakt
+
 contact:
   title: Kontakt Formular
   name: Name

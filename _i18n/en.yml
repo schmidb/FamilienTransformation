@@ -18,6 +18,12 @@ pages:
   imprint: Imprint for Family Transformation
   error: Error page
 
+nav:
+  portfolio: Portfolio
+  mindset: Mindset
+  impression: Impressions
+  contact: Contact
+
 contact:
   title: Contact Form
   name: name

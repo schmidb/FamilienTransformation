@@ -1,5 +1,6 @@
 New Work ist für uns ein Wandel der Perspektive auf unser heutiges Arbeiten. Wir streben nach einem Miteinander zwischen Arbeit und privaten Leben das sich in jedem Moment erfüllend und lebenswert fühlt. Daher lohnt es sich aus zwei Richtungen auf das Thema zu schauen.
 
+Mehr Informationen findest du auf [https://newwork-transformation.de](https://newwork-transformation.de).
 
 ###### **Unsere persönliche Seite**
 Treibende Kraft für den Perspektivenwechsel ist oft ein Konflikt unseres Arbeitsalltags mit anderen Bereichen (z.B. Familie) oder Grundbedürfnissen unseres Lebens. Oft entsteht der Konflikt durch unbewusste Annahmen darüber wie gearbeitet werden muss und einem Gefühl in der aktuellen Situation keine andere Wahl zu haben.

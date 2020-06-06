@@ -14,7 +14,7 @@ pages:
   portfoliotitle: Unser Transformations Portfolio
   contacttitle: Kontakt zu Uns
   mindsettitle: Unsere Denkweise & Philosophie
-  impressiontitle: Impressionen zur Transformation
+  impressiontitle: Impressionen aus Markus Transformation
   imprint: Impressum für Familien Transformation
   error: Error page
 
@@ -43,7 +43,8 @@ impression:
   before: Vorheriger Post
   next: Nächster Post
   footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen.
-
+  written: geschrieben von
+  
 portfolio:
   project_one: Familien-Träume Seminar
   project_one_underline: 20. - 27. September 2020 im Familotel Ebbinghof

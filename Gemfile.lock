@@ -286,6 +286,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-github-metadata
   jekyll-material-theme
   jekyll-multiple-languages-plugin
   jekyll-sitemap

@@ -18,20 +18,17 @@
 title: global.title
 name: Miriam & Markus Schmidberger
 email: trafo@posteo.net
-#phone: 0049 151 11143434
 description: global.description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://familien-transformation.de" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
 keep_files: [CNAME]
 
 
 #background
-parallax_image_one: /assets/images/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
-parallax_image_two: /assets/images/butterflies-small.jpg
-parallax_image_three: /assets/images/butterfly2.jpg
-parallax_image_four: /assets/images/butterfly-small.jpg
+parallax_image_one: /assets/images_background/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
+parallax_image_two: /assets/images_background/butterflies-small.jpg
+parallax_image_three: /assets/images_background/butterfly2.jpg
+parallax_image_four: /assets/images_background/butterfly-small.jpg
 
 
 
@@ -67,6 +64,7 @@ plugins:
   - jekyll-minifier
   - jekyll-multiple-languages
   - jekyll-sitemap
+  - jekyll-github-metadata #Jekyll plugin to propagate the site.github namespace and set default values for use with GitHub Pages.
 
 github: [metadata]
 

@@ -5,4 +5,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-material-theme"
   gem "jekyll-multiple-languages-plugin"
+  gem "jekyll-github-metadata"
 end

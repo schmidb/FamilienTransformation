@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="col s10">
+  <div class="row" style="padding:10px;">
+    <a class="waves-effect waves-light btn white-text darken-2 grey z-depth-4" href="{{site.baseurl}}/#philosophie"><i class="material-icons">arrow_back</i></a>
+  </div>
+
+  <div id="index-banner" class="parallax-container" style="height:200px;">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h3 class="post-title center white-text text-lighten-2" itemprop="name headline">{{ page.title | escape }}</h3>
+      </div>
+    </div>
+    <div class="parallax" ><img src="{{site.baseurl}}/assets/images/north.jpg" alt="Unsplashed background img 1" ></div>
+  </div>
+
+
+  <p class="post-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {{ page.date | date: date_format }}
+    </time>
+    {% if page.author %}
+      • {% t philosophie.written %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span> • <a href="mailto:{{ site.email }}?subject=Feedback: {{ page.title }}">{{ site.email }}</a>
+    {% endif %}</p>
+
+
+<div class="post-content" itemprop="articleBody">
+  {{ content }}
+</div>
+
+{% for post in site.categories.philosophie %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.philosophie %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_post = post.url %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_post = post.url %}
+    {% endif %}
+{% endfor %}
+
+{% if prev_post %}
+    <div style="display:block; text-align:left; float:left;"><a href="{{ prev_post }}">{% t philosophie.before %}</a></div>
+{% endif %}
+{% if next_post %}
+    <div style="display:block; text-align:right;"><a href="{{ next_post }}">{% t philosophie.next %}</a></div>
+{% else %}
+    <br>
+{% endif %}
+<p>
+<i>{% t philosophie.footer %}</i>
+</p>
+</div>
+</div>

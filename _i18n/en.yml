@@ -13,7 +13,8 @@ pages:
   more: more
   portfoliotitle: Our Transformation Portfolio
   contacttitle: Contact Us
-  mindsettitle: Our Mindset & Philosophy
+  mindsettitle: Our Mindset
+  philosophie: Our Life Philosophy
   impressiontitle: Impressions for Markus' Transformation
   imprint: Imprint for Family Transformation
   error: Error page
@@ -22,6 +23,7 @@ nav:
   portfolio: Portfolio
   mindset: Mindset
   impression: Impressions
+  philosophie: Philosophy
   contact: Contact
 
 contact:
@@ -44,7 +46,17 @@ impression:
   next: Next post
   footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen.
   written: written by
-  
+
+philosophie:
+  archive:
+    title: Archive von life philosophy
+    description: Archive und Sammlung von Beiträgen für Lebensphilosophien
+  before: Previous post
+  next: Next post
+  footer: XXX
+  written: written by
+
+
 portfolio:
   project_one: Family Dreams Seminar
   project_one_underline: September 20-27, 2020 at the Familotel Ebbinghof

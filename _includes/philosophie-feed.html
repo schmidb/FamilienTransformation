@@ -1,11 +1,11 @@
 <div class="row">
 
-  {% if site.posts.size == 0 %}
+  {% if site.categories.size == 0 %}
     No English posts at the moment. Please check our page in German language.
   {% else %}
 
-  {% for post in site.posts %}
-  {% if post.show == true and post.category != "impression" and post.category != "philosophie" %}
+  {% for post in site.categories.philosophie limit:4 %}
+  {% if post.show == true %}
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">

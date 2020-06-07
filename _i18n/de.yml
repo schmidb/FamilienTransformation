@@ -13,7 +13,8 @@ pages:
   more: mehr
   portfoliotitle: Unser Transformations Portfolio
   contacttitle: Kontakt zu Uns
-  mindsettitle: Unsere Denkweise & Philosophie
+  mindsettitle: Unsere Denkweise
+  philosophie: Unsere Lebensphilosophien
   impressiontitle: Impressionen aus Markus Transformation
   imprint: Impressum für Familien Transformation
   error: Error page
@@ -22,6 +23,7 @@ nav:
   portfolio: Portfolio
   mindset: Denkweise
   impression: Impressionen
+  philosophie: Philosophie
   contact: Kontakt
 
 contact:
@@ -42,9 +44,18 @@ impression:
     description: Archive und Sammlung von Beiträgen für Impressionen zur persönlichen Transformation
   before: Vorheriger Post
   next: Nächster Post
-  footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen.
+  footer: Jede Transformation ist ein Weg. Wir bevorzugen die Wege von 'Innen nach Aussen' und jeder Weg hat seine eigenen Herausforderungen und Hindernisse. Wir freuen uns, dass du dich auf deinen eigenen Weg begibst. Unsere Gedanken und Impressionen zu persönlicher Transformationen können für dich passend sein oder gerade nicht auf deinem Weg liegen. <br><br>Dein Thema ist noch nicht dabei? Dann schreib uns bitte eine Email.
   written: geschrieben von
-  
+
+philosophie:
+    archive:
+      title: Archive von Lebensphilosophien
+      description: Archive und Sammlung von Beiträgen für Lebensphilosophien
+    before: Vorheriger Post
+    next: Nächster Post
+    footer: Hier findest du Inspirationen und Antworten auf einige deiner Fragen zu unseren Ansätzen, Vorgehensweisen und Lebensphilosophien. Dies ist eine unsortierte Liste von vielen Themen aus unseren letzen Jahren als Familie und Ehepaar. <br><br>Dein Thema ist noch nicht dabei? Dann schreib uns bitte eine Email.
+    written: geschrieben von
+
 portfolio:
   project_one: Familien-Träume Seminar
   project_one_underline: 20. - 27. September 2020 im Familotel Ebbinghof

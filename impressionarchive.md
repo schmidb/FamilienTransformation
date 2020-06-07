@@ -6,6 +6,6 @@ image: /assets/images/writing.jpg
 permalink: /impressionarchive/
 ---
 
-<br>
+{% t impression.footer %}
 
 {% include impression-feed.html %}

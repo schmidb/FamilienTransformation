@@ -1,6 +1,6 @@
 ---
 layout: impression
-title: Die katholische Hölle
+title: Das Trauma mit dem Beichtstuhl
 date: 2020-06-06
 show: true
 category: impression
@@ -13,4 +13,4 @@ Im Schulunterricht in der Grundschule und von meiner Oma habe ich dann noch gele
 
 Durch genaues spüren meiner Gefühle und hinterfragen aller komischer Verhalten erkenne ich heute, dass daraus noch viel mehr geworden ist. Da ist zum Beispiel das 4te Gebot "Du sollst deinen Vater und deine Mutter ehren.". Da mein Unterbewusstsein nicht in die Hölle will verbietet es mir heute jegliche Kritik an meinen Eltern und hält mich damit in einer Abhängigkeit von meinen Eltern.
 
-P.S.: Dank meiner Frau bin ich vor 10 Jahren von der katholischen in die evangelische Kirche konvertiert und bin das Thema Hölle und Buße tun nun los.
+P.S.: Dank meiner Frau bin ich vor 10 Jahren von der katholischen in die evangelische Kirche konvertiert und bin das Thema Beichtstuhl und Buße tun nun los.

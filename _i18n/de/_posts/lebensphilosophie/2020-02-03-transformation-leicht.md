@@ -2,7 +2,7 @@
 layout: philosophie
 title: Transformationsprozesse fühlen sich nicht leicht an - oder was ist Transformations?
 author: Miriam
-date: 2020-03-03
+date: 2020-02-03
 show: true
 category: philosophie
 ---

@@ -2,7 +2,7 @@
 layout: philosophie
 title: Was ist der Unterschied zwischen Change Management und "Inside-Out Transformation"?
 author: Markus
-date: 2020-03-03
+date: 2020-01-30
 show: true
 category: philosophie
 ---
